@@ -1,7 +1,7 @@
 import streamlit as st
 import backend as be
 
-st.title("US Immigration Detention Data")
+st.title("US Immigration Enforcement Data")
 st.write(
     "Data comes from TRAC Reports' "
     "[ICE Detainees](https://tracreports.org/immigration/detentionstats/pop_agen_table.html) page. "
