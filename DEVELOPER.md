@@ -10,9 +10,9 @@ I used `uv` to manage my virtual environment while developing this project. To r
 
 ## Modifying the App
 
-The front end code is in `streamlit_app.py`.
+The app is built in Python, using the Streamlit and Pandas libraries.
 
-The analytical code is in `backend.py`.
+The front end code is in `streamlit_app.py`. The analytical code is in `backend.py`.
 
 ## Linting
 
