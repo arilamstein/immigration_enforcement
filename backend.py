@@ -28,7 +28,7 @@ def get_detention_data():
     return df
 
 
-def get_detention_chart():
+def get_aa_count_chart():
     df = get_detention_data()
 
     df = df.rename(columns={"ice_all": "ICE", "cbp_all": "CBP", "total_all": "Total"})
@@ -47,9 +47,35 @@ def get_detention_chart():
         y="count",
         color="Arresting Authority",
         color_discrete_sequence=px.colors.qualitative.Safe,
-        title="Detainee Counts Over Time",
     )
 
     fig.update_layout(xaxis_title="Date", yaxis_title="Detainees")
+
+    return fig
+
+
+def get_aa_pct_chart():
+    df = get_detention_data()
+
+    df["ICE"] = (df.ice_all / df.total_all * 100).round()  # Rounding is in the original
+    df["CBP"] = (df.cbp_all / df.total_all * 100).round()
+
+    # Converts df from wide to long
+    df_melted = df.melt(
+        id_vars="date",
+        value_vars=["ICE", "CBP"],
+        var_name="Arresting Authority",
+        value_name="percent",
+    )
+
+    fig = px.line(
+        df_melted,
+        x="date",
+        y="percent",
+        color="Arresting Authority",
+        color_discrete_sequence=px.colors.qualitative.Safe,
+    )
+
+    fig.update_layout(xaxis_title="Date", yaxis_title="Percent")
 
     return fig
