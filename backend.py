@@ -3,9 +3,8 @@ import requests
 import pandas as pd
 import plotly.express as px
 
-colorblind_palette = [
-    "black", "blue", "red", "#F0E68C"
-]
+colorblind_palette = ["black", "blue", "red", "#F0E68C"]
+
 
 @st.cache_data(ttl="1d")
 def get_detention_data():
@@ -84,7 +83,7 @@ def get_aa_pct_chart():
     return fig
 
 
-def get_criminality_chart():
+def get_criminality_count_chart():
     df = get_detention_data()
 
     # Converts df from wide to long
@@ -118,5 +117,39 @@ def get_criminality_chart():
     )
 
     fig.update_layout(xaxis_title="Date", yaxis_title="Detainees")
+
+    return fig
+
+
+def get_criminality_pct_chart():
+    df = get_detention_data()
+
+    df["Convicted Criminal"] = (
+        df.total_conv / df.total_all * 100
+    ).round()  # Rounding is in the original
+    df["Pending Criminal Charges"] = (df.total_pend / df.total_all * 100).round()
+    df["Other Immigration Violator"] = (df.total_other / df.total_all * 100).round()
+
+    # Converts df from wide to long
+    df_melted = df.melt(
+        id_vars="date",
+        value_vars=[
+            "Convicted Criminal",
+            "Pending Criminal Charges",
+            "Other Immigration Violator",
+        ],
+        var_name="Criminal Status",
+        value_name="percent",
+    )
+
+    fig = px.line(
+        df_melted,
+        x="date",
+        y="percent",
+        color="Criminal Status",
+        color_discrete_sequence=colorblind_palette,
+    )
+
+    fig.update_layout(xaxis_title="Date", yaxis_title="Percent")
 
     return fig

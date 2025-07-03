@@ -9,11 +9,12 @@ st.write(
     "'CBP' stands for 'Customs and Border Protection'."
 )
 
-aa_count_tab, aa_pct_tab, criminality_tab = st.tabs(
+aa_count_tab, aa_pct_tab, criminality_count_tab, criminality_pct_tab = st.tabs(
     [
         "Arresting Authority (Count)",
         "Arresting Authority (Percent)",
         "Criminality (Count)",
+        "Criminality (Percent)",
     ]
 )
 
@@ -25,10 +26,13 @@ with aa_pct_tab:
     fig = be.get_aa_pct_chart()
     st.plotly_chart(fig, use_container_width=True)
 
-with criminality_tab:
-    fig = be.get_criminality_chart()
+with criminality_count_tab:
+    fig = be.get_criminality_count_chart()
     st.plotly_chart(fig, use_container_width=True)
 
+with criminality_pct_tab:
+    fig = be.get_criminality_pct_chart()
+    st.plotly_chart(fig, use_container_width=True)
 
 st.write(
     "Below is the raw dataset which fuels the ICE Detentions page "
