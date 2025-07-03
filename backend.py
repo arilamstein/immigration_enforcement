@@ -27,14 +27,17 @@ def get_detention_data():
 
     return df
 
+
 def get_detention_chart():
     df = get_detention_data()
+
+    df = df.rename(columns={"ice_all": "ICE", "cbp_all": "CBP", "total_all": "Total"})
 
     # Converts df from wide to long
     df_melted = df.melt(
         id_vars="date",
-        value_vars=["ice_all", "cbp_all", "total_all"],
-        var_name="category",
+        value_vars=["ICE", "CBP", "Total"],
+        var_name="Arresting Authority",
         value_name="count",
     )
 
@@ -42,9 +45,11 @@ def get_detention_chart():
         df_melted,
         x="date",
         y="count",
-        color="category",
+        color="Arresting Authority",
         color_discrete_sequence=px.colors.qualitative.Safe,
-        title="ICE Detainee Counts Over Time",
+        title="Detainee Counts Over Time",
     )
+
+    fig.update_layout(xaxis_title="Date", yaxis_title="Detainees")
 
     return fig
