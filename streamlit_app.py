@@ -18,3 +18,8 @@ st.write(
 
 df = be.get_detention_data()
 st.data_editor(df)
+
+st.write(
+    "View the source code [here](https://github.com/arilamstein/immigration_enforcement). "
+    "Created by [Ari Lamstein](https://arilamstein.com/)."
+)
