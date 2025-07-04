@@ -51,7 +51,11 @@ def get_aa_count_chart():
         color_discrete_sequence=colorblind_palette,
     )
 
-    fig.update_layout(xaxis_title="Date", yaxis_title="Detainees")
+    fig.update_layout(
+        xaxis_title="Date",
+        yaxis_title="Detainees",
+        title="ICE Detainees by Date and Arresting Authority",
+    )
 
     return fig
 
@@ -78,7 +82,11 @@ def get_aa_pct_chart():
         color_discrete_sequence=colorblind_palette,
     )
 
-    fig.update_layout(xaxis_title="Date", yaxis_title="Percent")
+    fig.update_layout(
+        xaxis_title="Date",
+        yaxis_title="Percent",
+        title="ICE Detainees by Date and Arresting Authority",
+    )
 
     return fig
 
@@ -116,7 +124,11 @@ def get_criminality_count_chart():
         color_discrete_sequence=colorblind_palette,
     )
 
-    fig.update_layout(xaxis_title="Date", yaxis_title="Detainees")
+    fig.update_layout(
+        xaxis_title="Date",
+        yaxis_title="Detainees",
+        title="ICE Detainees by Date, Criminality and Arresting Authority",
+    )
 
     return fig
 
@@ -150,6 +162,30 @@ def get_criminality_pct_chart():
         color_discrete_sequence=colorblind_palette,
     )
 
-    fig.update_layout(xaxis_title="Date", yaxis_title="Percent")
+    fig.update_layout(
+        xaxis_title="Date",
+        yaxis_title="Percent",
+        title="ICE Detainees by Date, Criminality and Arresting Authority",
+    )
+
+    return fig
+
+
+def get_graph(dataset, display):
+    if dataset == "Arresting Authority":
+        if display == "Count":
+            fig = get_aa_count_chart()
+        elif display == "Percent":
+            fig = get_aa_pct_chart()
+    elif dataset == "Criminality":
+        if display == "Count":
+            fig = get_criminality_count_chart()
+        elif display == "Percent":
+            fig = get_criminality_pct_chart()
+
+    if not fig:
+        raise ValueError(
+            f"Cannot create graph for dataset={dataset}, display={display}"
+        )
 
     return fig
