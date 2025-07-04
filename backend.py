@@ -94,7 +94,7 @@ def get_aa_pct_chart():
 def get_col_prefix(authority):
     """The dataset comes in wide, and the statistics on criminality are repeated
     for each authority (ICE, CBP) and together (All). The columns for each
-    authority have their own prefix (ice, cbp, total). This function 
+    authority have their own prefix (ice, cbp, total). This function
     converts from an authority to its prefix."""
     if authority == "All":
         return "total"
