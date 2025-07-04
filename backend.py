@@ -91,16 +91,32 @@ def get_aa_pct_chart():
     return fig
 
 
-def get_criminality_count_chart():
+def get_col_prefix(authority):
+    """The dataset comes in wide, and the statistics on criminality are repeated
+    for each authority (ICE, CBP) and together (All). The columns for each
+    authority have their own prefix (ice, cbp, total). This function 
+    converts from an authority to its prefix."""
+    if authority == "All":
+        return "total"
+    elif authority == "ICE":
+        return "ice"
+    elif authority == "CBP":
+        return "cbp"
+    else:
+        raise ValueError(f"Unknown authority {authority}")
+
+
+def get_criminality_count_chart(authority):
     df = get_detention_data()
 
     # Converts df from wide to long
+    prefix = get_col_prefix(authority)
     df = df.rename(
         columns={
-            "total_all": "Total",
-            "total_conv": "Convicted Criminal",
-            "total_pend": "Pending Criminal Charges",
-            "total_other": "Other Immigration Violator",
+            f"{prefix}_all": "Total",
+            f"{prefix}_conv": "Convicted Criminal",
+            f"{prefix}_pend": "Pending Criminal Charges",
+            f"{prefix}_other": "Other Immigration Violator",
         }
     )
 
@@ -133,14 +149,20 @@ def get_criminality_count_chart():
     return fig
 
 
-def get_criminality_pct_chart():
+def get_criminality_pct_chart(authority):
     df = get_detention_data()
 
+    prefix = get_col_prefix(authority)
+    all_col = f"{prefix}_all"
+    conv_col = f"{prefix}_conv"
+    pend_col = f"{prefix}_pend"
+    other_col = f"{prefix}_other"
+
     df["Convicted Criminal"] = (
-        df.total_conv / df.total_all * 100
+        df[conv_col] / df[all_col] * 100
     ).round()  # Rounding is in the original
-    df["Pending Criminal Charges"] = (df.total_pend / df.total_all * 100).round()
-    df["Other Immigration Violator"] = (df.total_other / df.total_all * 100).round()
+    df["Pending Criminal Charges"] = (df[pend_col] / df[all_col] * 100).round()
+    df["Other Immigration Violator"] = (df[other_col] / df[all_col] * 100).round()
 
     # Converts df from wide to long
     df_melted = df.melt(
@@ -171,7 +193,7 @@ def get_criminality_pct_chart():
     return fig
 
 
-def get_graph(dataset, display):
+def get_graph(dataset, display, authority):
     if dataset == "Arresting Authority":
         if display == "Count":
             fig = get_aa_count_chart()
@@ -179,9 +201,9 @@ def get_graph(dataset, display):
             fig = get_aa_pct_chart()
     elif dataset == "Criminality":
         if display == "Count":
-            fig = get_criminality_count_chart()
+            fig = get_criminality_count_chart(authority)
         elif display == "Percent":
-            fig = get_criminality_pct_chart()
+            fig = get_criminality_pct_chart(authority)
 
     if not fig:
         raise ValueError(
