@@ -54,7 +54,7 @@ def get_aa_count_chart():
     fig.update_layout(
         xaxis_title="Date",
         yaxis_title="Detainees",
-        title="ICE Detainees by Date and Arresting Authority",
+        title="ICE Detainees by Date* and Arresting Authority",
     )
 
     return fig
@@ -85,7 +85,7 @@ def get_aa_pct_chart():
     fig.update_layout(
         xaxis_title="Date",
         yaxis_title="Percent",
-        title="ICE Detainees by Date and Arresting Authority",
+        title="ICE Detainees by Date* and Arresting Authority",
     )
 
     return fig
@@ -143,7 +143,7 @@ def get_criminality_count_chart(authority):
     fig.update_layout(
         xaxis_title="Date",
         yaxis_title="Detainees",
-        title="ICE Detainees by Date, Criminality and Arresting Authority",
+        title="ICE Detainees by Date*, Criminality** and Arresting Authority",
     )
 
     return fig
@@ -187,7 +187,7 @@ def get_criminality_pct_chart(authority):
     fig.update_layout(
         xaxis_title="Date",
         yaxis_title="Percent",
-        title="ICE Detainees by Date, Criminality and Arresting Authority",
+        title="ICE Detainees by Date*, Criminality** and Arresting Authority",
     )
 
     return fig
