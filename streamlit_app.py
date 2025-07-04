@@ -6,8 +6,6 @@ st.title("US Immigration Enforcement Data")
 st.write(
     "Data comes from TRAC Reports' "
     "[ICE Detainees](https://tracreports.org/immigration/detentionstats/pop_agen_table.html) page. "
-    "'ICE' stands for 'Immigration and Customs Enforcement'. "
-    "'CBP' stands for 'Customs and Border Protection'."
 )
 
 col1, col2, col3 = st.columns(3)

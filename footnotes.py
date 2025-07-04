@@ -6,6 +6,10 @@ on the page.
 """
 
 
+def get_abbreviations_text():
+    return '"ICE" stands for "Immigration and Customs Enforcement". "CBP" stands for "Customs and Border Protection".'
+
+
 def get_date_footnote_text():
     return (
         "*&nbsp;Dates before 11/15/2021 refer to the date ICE posted the data; "
@@ -29,6 +33,7 @@ def get_criminality_footnote_text():
 def get_date_footnote():
     return f"""
         <p style='font-size: 0.85em; font-style: italic; margin-top: 10px;'>
+        {get_abbreviations_text()}<br>
         {get_date_footnote_text()}
         </p>
         """
@@ -37,6 +42,7 @@ def get_date_footnote():
 def get_criminality_footnote():
     return f"""
         <p style='font-size: 0.85em; font-style: italic; margin-top: 10px;'>
+        {get_abbreviations_text()}<br>
         {get_date_footnote_text()}<br>
         {get_criminality_footnote_text()}
         </p>
