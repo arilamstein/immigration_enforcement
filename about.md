@@ -6,7 +6,7 @@ to answer those questions.
 The dataset this sites uses comes from the [ICE
 Detainees](https://tracreports.org/immigration/detentionstats/pop_agen_table.html)
 page from the Transactional Records Access Clearinghouse (TRAC) website. The
-problem I found with the ICE Detainees dataset is that it is presented as a
+problem I had with the ICE Detainees page is that the data is presented as a
 series of HTML tables with no visualizations. I created this website to visualize each subset of the data.  
 
 This website caches data for one hour, and the ICE Detainees page seems to

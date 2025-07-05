@@ -16,4 +16,5 @@ You can see the math the ICE Detainees page does
 by viewing the source code for the page. If you'd like to check my work, you can
 view the source code for the app [here](https://github.com/arilamstein/immigration_enforcement).
 
-You can view the dataset as a dataframe below, and also download it as a CSV file.
+You can view the dataset as a dataframe, and also download it as a CSV
+file, below:
