@@ -4,8 +4,8 @@ import footnotes
 
 st.title("US Immigration Enforcement Data")
 
-data_tab, about_tab = st.tabs(["📈 Graphs", "ℹ️ About"])
-with data_tab:
+graph_tab, data_tab, about_tab = st.tabs(["📈 Graphs", "📋 Data", "ℹ️ About"])
+with graph_tab:
     col1, col2, col3 = st.columns(3)
     with col1:
         dataset = st.selectbox("Dataset", ["Arresting Authority", "Criminality"])
@@ -23,6 +23,16 @@ with data_tab:
     st.plotly_chart(fig, use_container_width=True)
     # Each dataset has different footnotes.
     st.markdown(footnotes.get_footnote(dataset), unsafe_allow_html=True)
+with data_tab:
+    st.write(open("data.md").read())
+    df = be.get_detention_data()
+    st.dataframe(df, hide_index=True)
+    st.download_button(
+        label="Download as CSV",
+        data=df.to_csv(index=False),
+        file_name="ice_detention_data.csv",
+        mime="text/csv",
+    )
 with about_tab:
     st.write(open("about.md").read())
 
