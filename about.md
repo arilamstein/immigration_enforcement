@@ -1,25 +1,27 @@
 In 2025 President Trump increased immigration enforcement in the
 United States. This caused me to wonder what the baseline for immigration
-enforcement was, and how much he was increasing it.
+enforcement was, and how much he was increasing it. This website is my attempt
+to answer those questions.
 
-My first step was to find an authoritative dataset of immigration enforcement. 
-The first few sites I visited had data in PDF documents and Excel workbooks,
-both of which are hard to
-work with using data science tools such as Python. I eventually found the
-Transactional Records Access Clearinghouse (TRAC) website, which lists raw
-data in HTML tables
-([1](https://tracreports.org/immigration/quickfacts/), 
-[2](https://tracreports.org/immigration/detentionstats/pop_agen_table.html)).
-I had seen TRAC cited in newspapers, so I felt that it was trustworthy.
+The dataset this sites uses is the [ICE
+Detainees](https://tracreports.org/immigration/detentionstats/pop_agen_table.html)
+page from the Transactional Records Access Clearinghouse (TRAC) website. I have
+seen this dataset quoted in major media sources, so I assume that it is
+trustworthy. I originally attempted to use official statistics, but found
+those datasets hard to work with. Specifically, they were in PDF and
+Excel documents, which are hard to work with in Python.
 
-TRAC, however, does not provide a lot of options for visualizing the data. So I
-decided to scrape the website and create
-graphs of it myself. Since there are so many ways to slice and dice the data, I
-decided to create a website to help me analyze it. This
-website caches data for one hour, so it should never be significantly
-out of date. 
+The problem I found with the ICE Detainees dataset is that it is presented as a
+series of HTML tables with no visualizations. I created this website to make it
+easy to visualize each subset of the data.  
+
+This website caches data for one hour, and the ICE Detainees page seems to
+update just a few times a month. So the website should normally have the latest data.
 
 TRAC was not involved in the creation of this website. Please direct any questions about the underlying data to TRAC.  
 
-Please direct questions about this website
-to me. You can contact me via my website, which is linked to below.
+The code for this website is open source and released under the MIT license. You
+can view the code [here](https://github.com/arilamstein/immigration_enforcement).
+
+If you have any questions about this website, or are interested in collaborating
+on similar projects, please contact me via my [website](https://arilamstein.com/).

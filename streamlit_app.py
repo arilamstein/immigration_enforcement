@@ -26,7 +26,11 @@ with data_tab:
 with about_tab:
     st.write(open("about.md").read())
 
-st.write(
-    "Created by [Ari Lamstein](https://arilamstein.com/). "
-    "View the source code [here](https://github.com/arilamstein/immigration_enforcement)."
+st.markdown(
+    """
+    ---
+    Created by [Ari Lamstein](https://arilamstein.com/).
+    View the source code
+    [here](https://github.com/arilamstein/immigration_enforcement).
+    """
 )
