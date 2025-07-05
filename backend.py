@@ -6,9 +6,13 @@ import plotly.express as px
 colorblind_palette = ["black", "blue", "red", "#F0E68C"]
 
 
-@st.cache_data(ttl="1d")
+@st.cache_data(ttl="1h")
 def get_detention_data():
-    """URLS of interest:
+    """
+    Scrape the data and cache it for 1 hour. They seem to update the site just a
+    few times a month, so this should be fine.
+
+    URLS of interest:
     1. TRAC Reports homepage: https://tracreports.org/
     2. TRAC Reports Immigration page: https://tracreports.org/immigration/
     3. TRAC Reports Immigration Detention Quick Facts page:
