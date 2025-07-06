@@ -1,0 +1,5 @@
+# Force light mode because the graph palette include black.
+# This palette is useful for colorblind users.
+# But dark mode makes the black line invisible.
+[theme]
+base = "light"
