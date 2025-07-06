@@ -9,5 +9,4 @@ time.
 If you would like to run the app locally, or are interested in modifying it,
 please read [DEVELOPER.md](/DEVELOPER.md). 
 
-This app was created by [Ari Lamstein](https://arilamstein.com/). Feel free to
-[contact me](https://arilamstein.com/contact/) if you would like to discuss it.
+If you have any questions about the app, feel free to contact me via my [website](https://arilamstein.com/).
