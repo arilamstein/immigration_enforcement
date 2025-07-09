@@ -1,3 +1,8 @@
+"""
+Functions to scrape and graph data from TRAC's "ICE Detainees" page
+(https://tracreports.org/immigration/detentionstats/pop_agen_table.html).
+"""
+
 import streamlit as st
 import requests
 import pandas as pd
@@ -6,11 +11,13 @@ import plotly.express as px
 colorblind_palette = ["black", "blue", "red", "#F0E68C"]
 
 
-@st.cache_data(ttl="1h")
+@st.cache_data(ttl="15m")
 def get_detention_data():
     """
-    Scrape the data and cache it for 1 hour. They seem to update the site just a
-    few times a month, so this should be fine.
+    Get the data which powers TRAC's "ICE Detainees" page and return it as a dataframe.
+
+    This function caches the data for 15 minutes. They seem to update the site just a few times a month, so this should
+    be fine.
 
     URLS of interest:
     1. TRAC Reports homepage: https://tracreports.org/
@@ -35,6 +42,7 @@ def get_detention_data():
 
 
 def get_aa_count_chart():
+    """Get a chart that shows detentions by arresting authority as a count."""
     df = get_detention_data()
 
     df = df.rename(columns={"ice_all": "ICE", "cbp_all": "CBP", "total_all": "Total"})
@@ -65,6 +73,7 @@ def get_aa_count_chart():
 
 
 def get_aa_pct_chart():
+    """Get a chart that shows detentions by arresting authority as a percent."""
     df = get_detention_data()
 
     df["ICE"] = (df.ice_all / df.total_all * 100).round()  # Rounding is in the original
@@ -96,10 +105,13 @@ def get_aa_pct_chart():
 
 
 def get_col_prefix(authority):
-    """The dataset comes in wide, and the statistics on criminality are repeated
-    for each authority (ICE, CBP) and together (All). The columns for each
-    authority have their own prefix (ice, cbp, total). This function
-    converts from an authority to its prefix."""
+    """
+    Return the column prefix for the UI text "ICE", "CBP" and "All".
+
+    When viewing the criminality dataset the UI lets users select stats for each arresting authority ("ICE", "CBP") and
+    together ("All"). In the dataset, these subsets are denoted by the column prefixes "ice", "cbp" and "total". This
+    function converts the UI text to the column prefix.
+    """
     if authority == "All":
         return "total"
     elif authority == "ICE":
@@ -111,6 +123,7 @@ def get_col_prefix(authority):
 
 
 def get_criminality_count_chart(authority):
+    """Get a chart that shows the criminality of detainees by arresting authority as a count."""
     df = get_detention_data()
 
     # Converts df from wide to long
@@ -154,6 +167,7 @@ def get_criminality_count_chart(authority):
 
 
 def get_criminality_pct_chart(authority):
+    """Get a chart that shows the criminality of detainees by arresting authority as a percent."""
     df = get_detention_data()
 
     prefix = get_col_prefix(authority)
@@ -198,6 +212,15 @@ def get_criminality_pct_chart(authority):
 
 
 def get_graph(dataset, display, authority):
+    """
+    Get the graph specified by the dataset, display and authority.
+
+    Args:
+        dataset: one of "Arresting Authority" or "Criminality"
+        display: one of "Count" or "Percent"
+        authority: one of "CBP" (for "Customers and Border Protection"), "ICE" (for "Immigration and Customers
+        Enforcement") or "All" (for the total number)
+    """
     if dataset == "Arresting Authority":
         if display == "Count":
             fig = get_aa_count_chart()
