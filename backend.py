@@ -215,11 +215,16 @@ def get_graph(dataset, display, authority):
     """
     Get the graph specified by the dataset, display and authority.
 
-    Args:
-        dataset: one of "Arresting Authority" or "Criminality"
-        display: one of "Count" or "Percent"
-        authority: one of "CBP" (for "Customers and Border Protection"), "ICE" (for "Immigration and Customers
-        Enforcement") or "All" (for the total number)
+    Parameters
+    ----------
+    - dataset: one of "Arresting Authority" or "Criminality"
+    - display: one of "Count" or "Percent"
+    - authority: one of "CBP" (for "Customers and Border Protection"), "ICE" (for "Immigration and Customers
+    Enforcement") or "All" (for the total number)
+
+    Returns
+    -------
+    - A plotly figure
     """
     if dataset == "Arresting Authority":
         if display == "Count":
