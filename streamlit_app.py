@@ -39,8 +39,8 @@ with about_tab:
 st.markdown(
     """
     ---
-    Created by [Ari Lamstein](https://arilamstein.com/).
+    :small[Created by [Ari Lamstein](https://arilamstein.com/).
     View the source code
-    [here](https://github.com/arilamstein/immigration_enforcement).
+    [here](https://github.com/arilamstein/immigration_enforcement).]
     """
 )
