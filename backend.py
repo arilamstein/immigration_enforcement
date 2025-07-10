@@ -8,7 +8,12 @@ import requests
 import pandas as pd
 import plotly.express as px
 
-colorblind_palette = ["black", "blue", "red", "#F0E68C"]
+colorblind_palette = colorblind_palette = [
+    "#377eb8",  # blue
+    "#ff7f00",  # orange
+    "#a65628",  # brown
+    "#999999",  # gray
+]
 
 
 @st.cache_data(ttl="15m")
@@ -140,10 +145,10 @@ def get_criminality_count_chart(authority):
     df_melted = df.melt(
         id_vars="date",
         value_vars=[
-            "Total",
             "Convicted Criminal",
             "Pending Criminal Charges",
             "Other Immigration Violator",
+            "Total",
         ],
         var_name="Criminal Status",
         value_name="count",
