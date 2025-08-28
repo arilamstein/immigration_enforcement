@@ -127,6 +127,17 @@ def get_col_prefix(authority):
         raise ValueError(f"Unknown authority {authority}")
 
 
+def get_criminality_chart_title(authority):
+    """
+    The chart title should specify whether the graph is of all detainees,
+    or just those detainees who were arrested by a particular arresting authority.
+    """
+    if authority == "All":
+        return "ICE Detainees by Date* and Criminality**"
+    else:
+        return f"ICE Detainees (Detained by {authority}) by Date* and Criminality**"
+
+
 def get_criminality_count_chart(authority):
     """Get a chart that shows the criminality of detainees by arresting authority as a count."""
     df = get_detention_data()
@@ -165,7 +176,7 @@ def get_criminality_count_chart(authority):
     fig.update_layout(
         xaxis_title="Date",
         yaxis_title="Detainees",
-        title="ICE Detainees by Date*, Criminality** and Arresting Authority",
+        title=get_criminality_chart_title(authority),
     )
 
     return fig
@@ -210,7 +221,7 @@ def get_criminality_pct_chart(authority):
     fig.update_layout(
         xaxis_title="Date",
         yaxis_title="Percent",
-        title="ICE Detainees by Date*, Criminality** and Arresting Authority",
+        title=get_criminality_chart_title(authority),
     )
 
     return fig
