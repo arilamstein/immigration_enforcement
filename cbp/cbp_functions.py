@@ -17,13 +17,19 @@ def convert_fiscal_date_to_calendar_date(fiscal_date):
         return fiscal_date
 
 
-def get_monthly_region_df():
+def get_monthly_region_df(output_format="long"):
     """
     Read in the "Monthly Region" sheet from the "CBP Encounters" Spreadsheet.
 
     Note that the dataset lists dates using Fiscal Years, and those must be converted to Calendar Years
     to work properly with standard charting functions and other datasets.
     """
+
+    valid_options = ("long", "wide")
+    if output_format not in valid_options:
+        raise ValueError(
+            f"output_format must be one of {valid_options}. '{output_format}' given."
+        )
 
     # Read in data
     df = pd.read_excel(
@@ -45,4 +51,9 @@ def get_monthly_region_df():
     # Now subset columns
     df = df[["date", "region", "quantity"]]
 
-    return df
+    if output_format == "long":
+        return df
+    else:
+        df = df.pivot(columns="region", index="date", values="quantity").reset_index()
+        df.columns.name = None
+        return df
