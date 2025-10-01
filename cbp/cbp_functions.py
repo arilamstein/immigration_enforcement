@@ -1,5 +1,6 @@
 import pandas as pd
 from datetime import datetime
+import plotly.express as px
 
 
 def convert_fiscal_date_to_calendar_date(fiscal_date):
@@ -57,3 +58,43 @@ def get_monthly_region_df(output_format="long"):
         df = df.pivot(columns="region", index="date", values="quantity").reset_index()
         df.columns.name = None
         return df
+
+
+def get_monthly_encounters_graph(annotate_administrations=False):
+    df = get_monthly_region_df(output_format="wide")
+
+    fig = px.line(
+        df,
+        x="date",
+        y="Southwest Land Border",
+        title="CBP Monthly Encounters on the Southwest Land Border",
+    )
+
+    if annotate_administrations:
+        administrations = [
+            # Include Clinton for reference, but comment out bc his administration did not start during the data period
+            # {"President": "Bill Clinton", "Start": datetime(1993, 1, 20)},
+            {"President": "George W. Bush", "Start": datetime(2001, 1, 20)},
+            {"President": "Barack Obama", "Start": datetime(2009, 1, 20)},
+            {"President": "Donald Trump", "Start": datetime(2017, 1, 20)},
+            {"President": "Joe Biden", "Start": datetime(2021, 1, 20)},
+        ]
+
+        # Add a vertical line on the date the administration started, and write the presdient's name on the top
+        max_y = df["Southwest Land Border"].max()
+
+        for one_administration in administrations:
+            fig.add_vline(
+                x=one_administration["Start"], line_color="black", line_dash="dash"
+            )
+            fig.add_annotation(
+                x=one_administration["Start"],
+                y=max_y,
+                text=one_administration["President"],
+                xanchor="left",
+                xshift=5,
+                showarrow=False,
+                yanchor="bottom",
+            )
+
+    return fig
