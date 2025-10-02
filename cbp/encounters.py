@@ -67,7 +67,8 @@ def get_monthly_encounters_graph(annotate_administrations=False):
         df,
         x="date",
         y="Southwest Land Border",
-        title="CBP Monthly Encounters on the Southwest Land Border",
+        title="Border Patrol Encounters at the Southwest Land Border",
+        labels={"Southwest Land Border": "Encounters", "date": "Date"},
     )
 
     if annotate_administrations:
