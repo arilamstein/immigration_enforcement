@@ -1,0 +1,1937 @@
+Fiscal Year,Month Grouping,Month (abbv),Component,Demographic,Citizenship Grouping,Title of Authority,Encounter Type,Encounter Count
+2022,FYTD,OCT,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,1
+2022,FYTD,OCT,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,3
+2022,FYTD,OCT,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,1
+2022,FYTD,OCT,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,112
+2022,FYTD,OCT,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,66
+2022,FYTD,OCT,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,2
+2022,FYTD,OCT,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,2
+2022,FYTD,OCT,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,12
+2022,FYTD,OCT,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,14
+2022,FYTD,OCT,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,34
+2022,FYTD,OCT,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,162
+2022,FYTD,OCT,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,1020
+2022,FYTD,OCT,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,14
+2022,FYTD,OCT,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,7
+2022,FYTD,OCT,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,19
+2022,FYTD,OCT,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,18
+2022,FYTD,OCT,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,17
+2022,FYTD,OCT,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,24
+2022,FYTD,OCT,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1631
+2022,FYTD,OCT,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,1068
+2022,FYTD,OCT,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,37
+2022,FYTD,OCT,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,1302
+2022,FYTD,OCT,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,8
+2022,FYTD,OCT,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,19
+2022,FYTD,OCT,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,6
+2022,FYTD,OCT,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,112
+2022,FYTD,OCT,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,13
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,1448
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,2654
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,3496
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,637
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,6122
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,4296
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1730
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,151
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,614
+2022,FYTD,OCT,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,20408
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,3780
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,213
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,9783
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,328
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,7721
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,499
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,56733
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,1977
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,1259
+2022,FYTD,OCT,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,22639
+2022,FYTD,OCT,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1664
+2022,FYTD,OCT,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,5057
+2022,FYTD,OCT,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,3141
+2022,FYTD,OCT,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2307
+2022,FYTD,OCT,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,456
+2022,FYTD,APR,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,8
+2022,FYTD,APR,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2022,FYTD,APR,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,2
+2022,FYTD,APR,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2022,FYTD,APR,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,165
+2022,FYTD,APR,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,44
+2022,FYTD,APR,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,30
+2022,FYTD,APR,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,34
+2022,FYTD,APR,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,465
+2022,FYTD,APR,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,313
+2022,FYTD,APR,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1110
+2022,FYTD,APR,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,1227
+2022,FYTD,APR,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,14937
+2022,FYTD,APR,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,29
+2022,FYTD,APR,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,105
+2022,FYTD,APR,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,22
+2022,FYTD,APR,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,93
+2022,FYTD,APR,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,9
+2022,FYTD,APR,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,340
+2022,FYTD,APR,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1865
+2022,FYTD,APR,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2268
+2022,FYTD,APR,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,120
+2022,FYTD,APR,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,8781
+2022,FYTD,APR,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,8
+2022,FYTD,APR,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,29
+2022,FYTD,APR,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,11
+2022,FYTD,APR,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,148
+2022,FYTD,APR,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,116
+2022,FYTD,APR,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,624
+2022,FYTD,APR,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,956
+2022,FYTD,APR,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1569
+2022,FYTD,APR,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,290
+2022,FYTD,APR,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,2441
+2022,FYTD,APR,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,803
+2022,FYTD,APR,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1774
+2022,FYTD,APR,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,244
+2022,FYTD,APR,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,1184
+2022,FYTD,APR,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,27197
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,4351
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,533
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,10700
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,2192
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,6160
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,2246
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,67024
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,5257
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,2497
+2022,FYTD,APR,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,53605
+2022,FYTD,APR,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1275
+2022,FYTD,APR,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4702
+2022,FYTD,APR,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2611
+2022,FYTD,APR,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2552
+2022,FYTD,APR,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,717
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,2
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,2
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,1
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,18
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,2
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,185
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,67
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,11
+2022,FYTD,AUG,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,6
+2022,FYTD,AUG,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,423
+2022,FYTD,AUG,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,432
+2022,FYTD,AUG,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2393
+2022,FYTD,AUG,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,3424
+2022,FYTD,AUG,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,5796
+2022,FYTD,AUG,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,9
+2022,FYTD,AUG,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,179
+2022,FYTD,AUG,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,33
+2022,FYTD,AUG,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,92
+2022,FYTD,AUG,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,41
+2022,FYTD,AUG,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,519
+2022,FYTD,AUG,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1654
+2022,FYTD,AUG,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2801
+2022,FYTD,AUG,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,75
+2022,FYTD,AUG,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,3799
+2022,FYTD,AUG,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,13
+2022,FYTD,AUG,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,29
+2022,FYTD,AUG,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,28
+2022,FYTD,AUG,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,243
+2022,FYTD,AUG,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,35
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,468
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,766
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1196
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,304
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,1863
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,631
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1653
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,269
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,1342
+2022,FYTD,AUG,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,30813
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,3287
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,389
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,8767
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,509
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,7389
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,651
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,44479
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,4046
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,2234
+2022,FYTD,AUG,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,59725
+2022,FYTD,AUG,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1138
+2022,FYTD,AUG,U.S. Border Patrol,UAC,Guatemala,Title 42,Expulsions,1
+2022,FYTD,AUG,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4315
+2022,FYTD,AUG,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2684
+2022,FYTD,AUG,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1951
+2022,FYTD,AUG,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,904
+2022,FYTD,DEC,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,4
+2022,FYTD,DEC,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,3
+2022,FYTD,DEC,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,211
+2022,FYTD,DEC,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,70
+2022,FYTD,DEC,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,13
+2022,FYTD,DEC,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,4
+2022,FYTD,DEC,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,72
+2022,FYTD,DEC,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,25
+2022,FYTD,DEC,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,181
+2022,FYTD,DEC,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,430
+2022,FYTD,DEC,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,1602
+2022,FYTD,DEC,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,17
+2022,FYTD,DEC,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,20
+2022,FYTD,DEC,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,31
+2022,FYTD,DEC,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,28
+2022,FYTD,DEC,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,14
+2022,FYTD,DEC,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,70
+2022,FYTD,DEC,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1941
+2022,FYTD,DEC,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,1811
+2022,FYTD,DEC,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,77
+2022,FYTD,DEC,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,1853
+2022,FYTD,DEC,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,4
+2022,FYTD,DEC,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,17
+2022,FYTD,DEC,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,17
+2022,FYTD,DEC,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,110
+2022,FYTD,DEC,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,26
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,1080
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1846
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1978
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,1143
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,4389
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,2625
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1744
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,184
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,2714
+2022,FYTD,DEC,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,31734
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,4310
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,179
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,12153
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,362
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,7720
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,540
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,41435
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,1756
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,2319
+2022,FYTD,DEC,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,38687
+2022,FYTD,DEC,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1342
+2022,FYTD,DEC,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,5272
+2022,FYTD,DEC,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2582
+2022,FYTD,DEC,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1783
+2022,FYTD,DEC,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,725
+2022,FYTD,FEB,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,1
+2022,FYTD,FEB,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,2
+2022,FYTD,FEB,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,1
+2022,FYTD,FEB,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,7
+2022,FYTD,FEB,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,3
+2022,FYTD,FEB,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,166
+2022,FYTD,FEB,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,38
+2022,FYTD,FEB,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,9
+2022,FYTD,FEB,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,2
+2022,FYTD,FEB,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,97
+2022,FYTD,FEB,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,66
+2022,FYTD,FEB,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,261
+2022,FYTD,FEB,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,322
+2022,FYTD,FEB,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,811
+2022,FYTD,FEB,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,8
+2022,FYTD,FEB,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,33
+2022,FYTD,FEB,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,9
+2022,FYTD,FEB,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,30
+2022,FYTD,FEB,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,18
+2022,FYTD,FEB,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,80
+2022,FYTD,FEB,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1995
+2022,FYTD,FEB,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2016
+2022,FYTD,FEB,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,56
+2022,FYTD,FEB,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,609
+2022,FYTD,FEB,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,10
+2022,FYTD,FEB,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,26
+2022,FYTD,FEB,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,17
+2022,FYTD,FEB,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,128
+2022,FYTD,FEB,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,19
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,457
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1051
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1844
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,313
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,2916
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,691
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1561
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,150
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,1236
+2022,FYTD,FEB,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,14946
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,4166
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,194
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,10740
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,344
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,6859
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,464
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,60478
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,2498
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,625
+2022,FYTD,FEB,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,35858
+2022,FYTD,FEB,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1129
+2022,FYTD,FEB,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4840
+2022,FYTD,FEB,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2759
+2022,FYTD,FEB,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2498
+2022,FYTD,FEB,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,553
+2022,FYTD,JAN,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,1
+2022,FYTD,JAN,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,159
+2022,FYTD,JAN,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,63
+2022,FYTD,JAN,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,14
+2022,FYTD,JAN,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,2
+2022,FYTD,JAN,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,65
+2022,FYTD,JAN,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,51
+2022,FYTD,JAN,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,183
+2022,FYTD,JAN,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,384
+2022,FYTD,JAN,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,901
+2022,FYTD,JAN,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,7
+2022,FYTD,JAN,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,27
+2022,FYTD,JAN,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,19
+2022,FYTD,JAN,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,31
+2022,FYTD,JAN,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,13
+2022,FYTD,JAN,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,81
+2022,FYTD,JAN,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1919
+2022,FYTD,JAN,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2013
+2022,FYTD,JAN,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,58
+2022,FYTD,JAN,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,865
+2022,FYTD,JAN,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,8
+2022,FYTD,JAN,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,9
+2022,FYTD,JAN,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,8
+2022,FYTD,JAN,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,106
+2022,FYTD,JAN,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,10
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,469
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,828
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1319
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,317
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,3037
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,606
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1373
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,117
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,2287
+2022,FYTD,JAN,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,20066
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,3308
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,155
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,8806
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,247
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,5799
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,342
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,50207
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,1947
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,920
+2022,FYTD,JAN,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,37120
+2022,FYTD,JAN,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,942
+2022,FYTD,JAN,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,3057
+2022,FYTD,JAN,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1942
+2022,FYTD,JAN,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2053
+2022,FYTD,JAN,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,613
+2022,FYTD,JUL,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,2
+2022,FYTD,JUL,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,3
+2022,FYTD,JUL,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,21
+2022,FYTD,JUL,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,4
+2022,FYTD,JUL,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,155
+2022,FYTD,JUL,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,68
+2022,FYTD,JUL,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,15
+2022,FYTD,JUL,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,4
+2022,FYTD,JUL,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,264
+2022,FYTD,JUL,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,278
+2022,FYTD,JUL,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1679
+2022,FYTD,JUL,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,2634
+2022,FYTD,JUL,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,4346
+2022,FYTD,JUL,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,9
+2022,FYTD,JUL,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,125
+2022,FYTD,JUL,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,18
+2022,FYTD,JUL,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,84
+2022,FYTD,JUL,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,42
+2022,FYTD,JUL,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,454
+2022,FYTD,JUL,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1608
+2022,FYTD,JUL,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2683
+2022,FYTD,JUL,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,77
+2022,FYTD,JUL,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,3490
+2022,FYTD,JUL,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,12
+2022,FYTD,JUL,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,19
+2022,FYTD,JUL,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,17
+2022,FYTD,JUL,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,197
+2022,FYTD,JUL,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,20
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,722
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1201
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,3100
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,562
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,4346
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,1188
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1445
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,282
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,305
+2022,FYTD,JUL,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,29700
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,3886
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,420
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,10356
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,518
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,8005
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,771
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,41050
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,3877
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,2540
+2022,FYTD,JUL,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,54557
+2022,FYTD,JUL,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1311
+2022,FYTD,JUL,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,5274
+2022,FYTD,JUL,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,3813
+2022,FYTD,JUL,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2022,FYTD,JUL,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1692
+2022,FYTD,JUL,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,912
+2022,FYTD,JUN,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,1
+2022,FYTD,JUN,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,3
+2022,FYTD,JUN,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,91
+2022,FYTD,JUN,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,51
+2022,FYTD,JUN,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,16
+2022,FYTD,JUN,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,8
+2022,FYTD,JUN,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,265
+2022,FYTD,JUN,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,292
+2022,FYTD,JUN,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1100
+2022,FYTD,JUN,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,1766
+2022,FYTD,JUN,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,4310
+2022,FYTD,JUN,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,13
+2022,FYTD,JUN,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,109
+2022,FYTD,JUN,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,25
+2022,FYTD,JUN,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,66
+2022,FYTD,JUN,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,11
+2022,FYTD,JUN,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,335
+2022,FYTD,JUN,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1637
+2022,FYTD,JUN,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2387
+2022,FYTD,JUN,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,93
+2022,FYTD,JUN,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,2535
+2022,FYTD,JUN,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,12
+2022,FYTD,JUN,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,45
+2022,FYTD,JUN,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,16
+2022,FYTD,JUN,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,224
+2022,FYTD,JUN,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,24
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,1002
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1638
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,4734
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,952
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,6625
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,2245
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1635
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,294
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,270
+2022,FYTD,JUN,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,24676
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,4013
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,500
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,11709
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,556
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,8672
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,764
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,52277
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,4444
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,1853
+2022,FYTD,JUN,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,48611
+2022,FYTD,JUN,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1571
+2022,FYTD,JUN,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,6268
+2022,FYTD,JUN,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,4406
+2022,FYTD,JUN,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2022,FYTD,JUN,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1923
+2022,FYTD,JUN,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,760
+2022,FYTD,MAR,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,1
+2022,FYTD,MAR,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,1
+2022,FYTD,MAR,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,12
+2022,FYTD,MAR,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2022,FYTD,MAR,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,175
+2022,FYTD,MAR,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,41
+2022,FYTD,MAR,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,18
+2022,FYTD,MAR,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,7
+2022,FYTD,MAR,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,92
+2022,FYTD,MAR,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,73
+2022,FYTD,MAR,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,334
+2022,FYTD,MAR,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,420
+2022,FYTD,MAR,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,2946
+2022,FYTD,MAR,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,16
+2022,FYTD,MAR,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,33
+2022,FYTD,MAR,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,14
+2022,FYTD,MAR,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,43
+2022,FYTD,MAR,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,22
+2022,FYTD,MAR,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,116
+2022,FYTD,MAR,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,2060
+2022,FYTD,MAR,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2467
+2022,FYTD,MAR,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,82
+2022,FYTD,MAR,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,2174
+2022,FYTD,MAR,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,11
+2022,FYTD,MAR,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,16
+2022,FYTD,MAR,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,19
+2022,FYTD,MAR,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,172
+2022,FYTD,MAR,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,27
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,568
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1254
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1976
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,317
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,2868
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,816
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1944
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,172
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,571
+2022,FYTD,MAR,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,23566
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,4740
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,219
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,13045
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,435
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,8113
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,528
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,73562
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,4272
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,2293
+2022,FYTD,MAR,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,56030
+2022,FYTD,MAR,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1469
+2022,FYTD,MAR,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,5472
+2022,FYTD,MAR,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,3384
+2022,FYTD,MAR,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2847
+2022,FYTD,MAR,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,720
+2022,FYTD,MAY,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2022,FYTD,MAY,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,2
+2022,FYTD,MAY,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,1
+2022,FYTD,MAY,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,2
+2022,FYTD,MAY,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,128
+2022,FYTD,MAY,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,33
+2022,FYTD,MAY,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,64
+2022,FYTD,MAY,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,4
+2022,FYTD,MAY,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,438
+2022,FYTD,MAY,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,251
+2022,FYTD,MAY,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1309
+2022,FYTD,MAY,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,2180
+2022,FYTD,MAY,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,4212
+2022,FYTD,MAY,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,9
+2022,FYTD,MAY,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,155
+2022,FYTD,MAY,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,24
+2022,FYTD,MAY,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,86
+2022,FYTD,MAY,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,9
+2022,FYTD,MAY,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,386
+2022,FYTD,MAY,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1784
+2022,FYTD,MAY,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2550
+2022,FYTD,MAY,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,155
+2022,FYTD,MAY,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,2728
+2022,FYTD,MAY,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,6
+2022,FYTD,MAY,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,28
+2022,FYTD,MAY,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,25
+2022,FYTD,MAY,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,172
+2022,FYTD,MAY,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,24
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,806
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1404
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1745
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,1120
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,3825
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,1865
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1930
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,327
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,2384
+2022,FYTD,MAY,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,35760
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,4213
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,338
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,11912
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,477
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,7902
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,669
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,61220
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,4841
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,7659
+2022,FYTD,MAY,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,59553
+2022,FYTD,MAY,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1610
+2022,FYTD,MAY,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,5822
+2022,FYTD,MAY,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,3738
+2022,FYTD,MAY,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2022,FYTD,MAY,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2287
+2022,FYTD,MAY,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,962
+2022,FYTD,NOV,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,2
+2022,FYTD,NOV,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,1
+2022,FYTD,NOV,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,4
+2022,FYTD,NOV,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,4
+2022,FYTD,NOV,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,207
+2022,FYTD,NOV,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,73
+2022,FYTD,NOV,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,10
+2022,FYTD,NOV,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,2
+2022,FYTD,NOV,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,38
+2022,FYTD,NOV,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,23
+2022,FYTD,NOV,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,104
+2022,FYTD,NOV,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,447
+2022,FYTD,NOV,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,1170
+2022,FYTD,NOV,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,9
+2022,FYTD,NOV,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,29
+2022,FYTD,NOV,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,27
+2022,FYTD,NOV,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,24
+2022,FYTD,NOV,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,21
+2022,FYTD,NOV,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,45
+2022,FYTD,NOV,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1993
+2022,FYTD,NOV,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,1830
+2022,FYTD,NOV,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,64
+2022,FYTD,NOV,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,1519
+2022,FYTD,NOV,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,2
+2022,FYTD,NOV,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,13
+2022,FYTD,NOV,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,10
+2022,FYTD,NOV,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,143
+2022,FYTD,NOV,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,16
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,1216
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,2619
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,2851
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,738
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,5198
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,3403
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1848
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,140
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,507
+2022,FYTD,NOV,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,24759
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,3825
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,195
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,10439
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,361
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,7418
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,535
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,53124
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,2002
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,1423
+2022,FYTD,NOV,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,30669
+2022,FYTD,NOV,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1731
+2022,FYTD,NOV,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,5990
+2022,FYTD,NOV,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,3363
+2022,FYTD,NOV,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2022,FYTD,NOV,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2038
+2022,FYTD,NOV,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,622
+2022,Remaining,SEP,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,1
+2022,Remaining,SEP,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,1
+2022,Remaining,SEP,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,116
+2022,Remaining,SEP,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,52
+2022,Remaining,SEP,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,16
+2022,Remaining,SEP,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,1
+2022,Remaining,SEP,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,305
+2022,Remaining,SEP,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,257
+2022,Remaining,SEP,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1602
+2022,Remaining,SEP,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,3048
+2022,Remaining,SEP,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,4288
+2022,Remaining,SEP,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,10
+2022,Remaining,SEP,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,199
+2022,Remaining,SEP,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,21
+2022,Remaining,SEP,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,125
+2022,Remaining,SEP,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,16
+2022,Remaining,SEP,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,582
+2022,Remaining,SEP,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1515
+2022,Remaining,SEP,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,3039
+2022,Remaining,SEP,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,84
+2022,Remaining,SEP,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,4311
+2022,Remaining,SEP,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,9
+2022,Remaining,SEP,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,17
+2022,Remaining,SEP,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,20
+2022,Remaining,SEP,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,289
+2022,Remaining,SEP,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,26
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,419
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,792
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1121
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,313
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,1643
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,461
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1872
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,463
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,659
+2022,Remaining,SEP,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,36836
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,2980
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,386
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,8574
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,459
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,6740
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,596
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,46788
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,4234
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,1674
+2022,Remaining,SEP,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,79048
+2022,Remaining,SEP,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1146
+2022,Remaining,SEP,U.S. Border Patrol,UAC,Guatemala,Title 42,Expulsions,1
+2022,Remaining,SEP,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4442
+2022,Remaining,SEP,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2757
+2022,Remaining,SEP,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2022,Remaining,SEP,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2014
+2022,Remaining,SEP,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1178
+2023,FYTD,APR,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,2
+2023,FYTD,APR,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,6
+2023,FYTD,APR,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,1
+2023,FYTD,APR,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,4
+2023,FYTD,APR,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2023,FYTD,APR,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,159
+2023,FYTD,APR,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,55
+2023,FYTD,APR,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,36
+2023,FYTD,APR,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,15
+2023,FYTD,APR,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,176
+2023,FYTD,APR,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,136
+2023,FYTD,APR,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,648
+2023,FYTD,APR,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,2421
+2023,FYTD,APR,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,8473
+2023,FYTD,APR,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,7
+2023,FYTD,APR,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,98
+2023,FYTD,APR,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,28
+2023,FYTD,APR,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,69
+2023,FYTD,APR,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,17
+2023,FYTD,APR,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,410
+2023,FYTD,APR,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1628
+2023,FYTD,APR,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2978
+2023,FYTD,APR,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,263
+2023,FYTD,APR,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,10052
+2023,FYTD,APR,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,5
+2023,FYTD,APR,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,33
+2023,FYTD,APR,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,26
+2023,FYTD,APR,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,182
+2023,FYTD,APR,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,142
+2023,FYTD,APR,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,247
+2023,FYTD,APR,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,394
+2023,FYTD,APR,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1079
+2023,FYTD,APR,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,1977
+2023,FYTD,APR,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,1339
+2023,FYTD,APR,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,312
+2023,FYTD,APR,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,3947
+2023,FYTD,APR,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,3774
+2023,FYTD,APR,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,4087
+2023,FYTD,APR,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,29399
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,2395
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,423
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,6838
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,644
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,6996
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,626
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,46442
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,3175
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,10694
+2023,FYTD,APR,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,48071
+2023,FYTD,APR,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,930
+2023,FYTD,APR,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,3773
+2023,FYTD,APR,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2839
+2023,FYTD,APR,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2023,FYTD,APR,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2329
+2023,FYTD,APR,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1190
+2023,FYTD,AUG,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,3
+2023,FYTD,AUG,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,128
+2023,FYTD,AUG,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,33
+2023,FYTD,AUG,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,500
+2023,FYTD,AUG,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,354
+2023,FYTD,AUG,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1650
+2023,FYTD,AUG,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,9479
+2023,FYTD,AUG,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,11628
+2023,FYTD,AUG,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,511
+2023,FYTD,AUG,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,337
+2023,FYTD,AUG,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1720
+2023,FYTD,AUG,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5962
+2023,FYTD,AUG,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,18894
+2023,FYTD,AUG,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,6
+2023,FYTD,AUG,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,41
+2023,FYTD,AUG,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,53
+2023,FYTD,AUG,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,416
+2023,FYTD,AUG,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,194
+2023,FYTD,AUG,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,3159
+2023,FYTD,AUG,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,26242
+2023,FYTD,AUG,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,23656
+2023,FYTD,AUG,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,11569
+2023,FYTD,AUG,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,28485
+2023,FYTD,AUG,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1098
+2023,FYTD,AUG,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,5600
+2023,FYTD,AUG,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,4147
+2023,FYTD,AUG,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,25750
+2023,FYTD,AUG,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,37821
+2023,FYTD,AUG,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,806
+2023,FYTD,AUG,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,5363
+2023,FYTD,AUG,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,3939
+2023,FYTD,AUG,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2189
+2023,FYTD,AUG,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1230
+2023,FYTD,DEC,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,2
+2023,FYTD,DEC,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,2
+2023,FYTD,DEC,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,27
+2023,FYTD,DEC,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,163
+2023,FYTD,DEC,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,63
+2023,FYTD,DEC,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,25
+2023,FYTD,DEC,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,8
+2023,FYTD,DEC,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,440
+2023,FYTD,DEC,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,369
+2023,FYTD,DEC,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1924
+2023,FYTD,DEC,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,6050
+2023,FYTD,DEC,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,7692
+2023,FYTD,DEC,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,11
+2023,FYTD,DEC,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,235
+2023,FYTD,DEC,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,34
+2023,FYTD,DEC,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,184
+2023,FYTD,DEC,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,28
+2023,FYTD,DEC,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,932
+2023,FYTD,DEC,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1501
+2023,FYTD,DEC,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,3552
+2023,FYTD,DEC,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,148
+2023,FYTD,DEC,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,6459
+2023,FYTD,DEC,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,15
+2023,FYTD,DEC,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,50
+2023,FYTD,DEC,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,36
+2023,FYTD,DEC,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,293
+2023,FYTD,DEC,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,54
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,376
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,560
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1478
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,345
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,1808
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,579
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1461
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,2095
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,3553
+2023,FYTD,DEC,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,48588
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,2057
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,280
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,7227
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,395
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,4972
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,373
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,23672
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,7958
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,4751
+2023,FYTD,DEC,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,97661
+2023,FYTD,DEC,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,884
+2023,FYTD,DEC,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4801
+2023,FYTD,DEC,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2597
+2023,FYTD,DEC,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2023,FYTD,DEC,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1581
+2023,FYTD,DEC,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1965
+2023,FYTD,FEB,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,1
+2023,FYTD,FEB,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,1
+2023,FYTD,FEB,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,2
+2023,FYTD,FEB,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,4
+2023,FYTD,FEB,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,144
+2023,FYTD,FEB,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,24
+2023,FYTD,FEB,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,32
+2023,FYTD,FEB,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,7
+2023,FYTD,FEB,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,70
+2023,FYTD,FEB,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,52
+2023,FYTD,FEB,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,248
+2023,FYTD,FEB,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,913
+2023,FYTD,FEB,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,6658
+2023,FYTD,FEB,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,5
+2023,FYTD,FEB,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,136
+2023,FYTD,FEB,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,20
+2023,FYTD,FEB,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,100
+2023,FYTD,FEB,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,9
+2023,FYTD,FEB,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,550
+2023,FYTD,FEB,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1495
+2023,FYTD,FEB,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,3007
+2023,FYTD,FEB,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,124
+2023,FYTD,FEB,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,12089
+2023,FYTD,FEB,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,5
+2023,FYTD,FEB,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,29
+2023,FYTD,FEB,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,26
+2023,FYTD,FEB,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,206
+2023,FYTD,FEB,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,152
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,252
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,272
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1067
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,432
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,901
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,192
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,2488
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,3768
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,3740
+2023,FYTD,FEB,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,12531
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,2917
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,241
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,8047
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,405
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,6071
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,423
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,46616
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,4197
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,4041
+2023,FYTD,FEB,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,21502
+2023,FYTD,FEB,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,820
+2023,FYTD,FEB,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4065
+2023,FYTD,FEB,U.S. Border Patrol,UAC,Honduras,Title 42,Expulsions,1
+2023,FYTD,FEB,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2510
+2023,FYTD,FEB,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,2
+2023,FYTD,FEB,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2411
+2023,FYTD,FEB,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,609
+2023,FYTD,JAN,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2023,FYTD,JAN,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,1
+2023,FYTD,JAN,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,7
+2023,FYTD,JAN,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,108
+2023,FYTD,JAN,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,83
+2023,FYTD,JAN,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,12
+2023,FYTD,JAN,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,9
+2023,FYTD,JAN,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,242
+2023,FYTD,JAN,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,251
+2023,FYTD,JAN,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1269
+2023,FYTD,JAN,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,4137
+2023,FYTD,JAN,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,6711
+2023,FYTD,JAN,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,2
+2023,FYTD,JAN,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,174
+2023,FYTD,JAN,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,13
+2023,FYTD,JAN,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,142
+2023,FYTD,JAN,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,31
+2023,FYTD,JAN,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,726
+2023,FYTD,JAN,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1414
+2023,FYTD,JAN,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,3828
+2023,FYTD,JAN,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,77
+2023,FYTD,JAN,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,8261
+2023,FYTD,JAN,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,9
+2023,FYTD,JAN,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,32
+2023,FYTD,JAN,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,15
+2023,FYTD,JAN,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,227
+2023,FYTD,JAN,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,63
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,258
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,294
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,770
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,201
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,989
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,235
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1497
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,3002
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,4145
+2023,FYTD,JAN,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,14438
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,1875
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,229
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,6967
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,352
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,5465
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,295
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,37023
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,8754
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,7517
+2023,FYTD,JAN,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,26173
+2023,FYTD,JAN,U.S. Border Patrol,UAC,El Salvador,Title 42,Expulsions,1
+2023,FYTD,JAN,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,694
+2023,FYTD,JAN,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,3241
+2023,FYTD,JAN,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1998
+2023,FYTD,JAN,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2023,FYTD,JAN,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2191
+2023,FYTD,JAN,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,908
+2023,FYTD,JUL,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2023,FYTD,JUL,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,4
+2023,FYTD,JUL,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,113
+2023,FYTD,JUL,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,37
+2023,FYTD,JUL,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,488
+2023,FYTD,JUL,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,346
+2023,FYTD,JUL,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1566
+2023,FYTD,JUL,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,11370
+2023,FYTD,JUL,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,12268
+2023,FYTD,JUL,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,393
+2023,FYTD,JUL,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,243
+2023,FYTD,JUL,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1318
+2023,FYTD,JUL,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,6139
+2023,FYTD,JUL,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,15951
+2023,FYTD,JUL,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,9
+2023,FYTD,JUL,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,48
+2023,FYTD,JUL,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,45
+2023,FYTD,JUL,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,303
+2023,FYTD,JUL,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,195
+2023,FYTD,JUL,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1447
+2023,FYTD,JUL,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,13638
+2023,FYTD,JUL,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,16054
+2023,FYTD,JUL,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,10329
+2023,FYTD,JUL,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,18697
+2023,FYTD,JUL,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1055
+2023,FYTD,JUL,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,4296
+2023,FYTD,JUL,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,3922
+2023,FYTD,JUL,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,23683
+2023,FYTD,JUL,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,29486
+2023,FYTD,JUL,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,560
+2023,FYTD,JUL,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,3556
+2023,FYTD,JUL,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,3114
+2023,FYTD,JUL,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1991
+2023,FYTD,JUL,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,814
+2023,FYTD,JUN,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2023,FYTD,JUN,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,1
+2023,FYTD,JUN,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,7
+2023,FYTD,JUN,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,98
+2023,FYTD,JUN,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,25
+2023,FYTD,JUN,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,674
+2023,FYTD,JUN,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,508
+2023,FYTD,JUN,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2907
+2023,FYTD,JUN,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,9561
+2023,FYTD,JUN,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,11007
+2023,FYTD,JUN,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,457
+2023,FYTD,JUN,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,269
+2023,FYTD,JUN,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1476
+2023,FYTD,JUN,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5378
+2023,FYTD,JUN,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,12107
+2023,FYTD,JUN,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,10
+2023,FYTD,JUN,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,36
+2023,FYTD,JUN,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,44
+2023,FYTD,JUN,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,267
+2023,FYTD,JUN,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,185
+2023,FYTD,JUN,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,537
+2023,FYTD,JUN,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,3806
+2023,FYTD,JUN,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,4727
+2023,FYTD,JUN,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,6812
+2023,FYTD,JUN,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,15389
+2023,FYTD,JUN,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1057
+2023,FYTD,JUN,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,3686
+2023,FYTD,JUN,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,4010
+2023,FYTD,JUN,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,25580
+2023,FYTD,JUN,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,27202
+2023,FYTD,JUN,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,446
+2023,FYTD,JUN,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,2056
+2023,FYTD,JUN,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1922
+2023,FYTD,JUN,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1566
+2023,FYTD,JUN,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,742
+2023,FYTD,MAR,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,3
+2023,FYTD,MAR,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,4
+2023,FYTD,MAR,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,1
+2023,FYTD,MAR,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,166
+2023,FYTD,MAR,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,49
+2023,FYTD,MAR,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,41
+2023,FYTD,MAR,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,7
+2023,FYTD,MAR,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,205
+2023,FYTD,MAR,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,194
+2023,FYTD,MAR,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1101
+2023,FYTD,MAR,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,3573
+2023,FYTD,MAR,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,7977
+2023,FYTD,MAR,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,20
+2023,FYTD,MAR,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,156
+2023,FYTD,MAR,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,29
+2023,FYTD,MAR,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,136
+2023,FYTD,MAR,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,17
+2023,FYTD,MAR,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,672
+2023,FYTD,MAR,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1715
+2023,FYTD,MAR,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,3500
+2023,FYTD,MAR,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,202
+2023,FYTD,MAR,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,9309
+2023,FYTD,MAR,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,17
+2023,FYTD,MAR,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,45
+2023,FYTD,MAR,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,41
+2023,FYTD,MAR,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,261
+2023,FYTD,MAR,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,136
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,210
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,359
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1134
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,629
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,1234
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,197
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,4863
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,3565
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,4028
+2023,FYTD,MAR,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,17050
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,3463
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,432
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,8321
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,564
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,6264
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,740
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,57181
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,3639
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,4293
+2023,FYTD,MAR,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,33654
+2023,FYTD,MAR,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,900
+2023,FYTD,MAR,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4236
+2023,FYTD,MAR,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,3089
+2023,FYTD,MAR,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2023,FYTD,MAR,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2794
+2023,FYTD,MAR,U.S. Border Patrol,UAC,Other,Title 42,Expulsions,1
+2023,FYTD,MAR,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,831
+2023,FYTD,MAY,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,2
+2023,FYTD,MAY,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,2
+2023,FYTD,MAY,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,2
+2023,FYTD,MAY,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,5
+2023,FYTD,MAY,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,67
+2023,FYTD,MAY,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,94
+2023,FYTD,MAY,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,14
+2023,FYTD,MAY,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,16
+2023,FYTD,MAY,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,474
+2023,FYTD,MAY,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,412
+2023,FYTD,MAY,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2065
+2023,FYTD,MAY,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,6180
+2023,FYTD,MAY,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,7286
+2023,FYTD,MAY,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,3
+2023,FYTD,MAY,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,283
+2023,FYTD,MAY,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,17
+2023,FYTD,MAY,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,197
+2023,FYTD,MAY,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,6
+2023,FYTD,MAY,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1103
+2023,FYTD,MAY,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,582
+2023,FYTD,MAY,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,4586
+2023,FYTD,MAY,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,172
+2023,FYTD,MAY,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,11255
+2023,FYTD,MAY,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,13
+2023,FYTD,MAY,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,38
+2023,FYTD,MAY,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,44
+2023,FYTD,MAY,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,284
+2023,FYTD,MAY,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,106
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,109
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,842
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,402
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,3732
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,792
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,4792
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1831
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,4790
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,871
+2023,FYTD,MAY,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,26865
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,789
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,2003
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,2065
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,4845
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,3766
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,5902
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,15214
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,19929
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,5741
+2023,FYTD,MAY,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,56660
+2023,FYTD,MAY,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,831
+2023,FYTD,MAY,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,3107
+2023,FYTD,MAY,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2558
+2023,FYTD,MAY,U.S. Border Patrol,UAC,Mexico,Title 42,Expulsions,1
+2023,FYTD,MAY,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1847
+2023,FYTD,MAY,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1098
+2023,FYTD,NOV,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,2
+2023,FYTD,NOV,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2023,FYTD,NOV,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,1
+2023,FYTD,NOV,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2023,FYTD,NOV,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,138
+2023,FYTD,NOV,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,53
+2023,FYTD,NOV,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,18
+2023,FYTD,NOV,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,9
+2023,FYTD,NOV,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,406
+2023,FYTD,NOV,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,350
+2023,FYTD,NOV,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2031
+2023,FYTD,NOV,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,5124
+2023,FYTD,NOV,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,5734
+2023,FYTD,NOV,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,11
+2023,FYTD,NOV,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,259
+2023,FYTD,NOV,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,10
+2023,FYTD,NOV,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,158
+2023,FYTD,NOV,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,17
+2023,FYTD,NOV,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,920
+2023,FYTD,NOV,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1571
+2023,FYTD,NOV,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,3213
+2023,FYTD,NOV,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,117
+2023,FYTD,NOV,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,7009
+2023,FYTD,NOV,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,8
+2023,FYTD,NOV,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,27
+2023,FYTD,NOV,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,20
+2023,FYTD,NOV,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,233
+2023,FYTD,NOV,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,52
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,345
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,670
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1133
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,281
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,1284
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,381
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1691
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,1392
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,3755
+2023,FYTD,NOV,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,38895
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,2436
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,242
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,7033
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,347
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,5187
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,344
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,41235
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,2818
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,4972
+2023,FYTD,NOV,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,80459
+2023,FYTD,NOV,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1152
+2023,FYTD,NOV,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,5171
+2023,FYTD,NOV,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2957
+2023,FYTD,NOV,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1880
+2023,FYTD,NOV,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1620
+2023,FYTD,OCT,Office of Field Operations,Accompanied Minors,El Salvador,Title 42,Expulsions,3
+2023,FYTD,OCT,Office of Field Operations,Accompanied Minors,Guatemala,Title 42,Expulsions,4
+2023,FYTD,OCT,Office of Field Operations,Accompanied Minors,Honduras,Title 42,Expulsions,7
+2023,FYTD,OCT,Office of Field Operations,Accompanied Minors,Mexico,Title 42,Expulsions,154
+2023,FYTD,OCT,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,50
+2023,FYTD,OCT,Office of Field Operations,Accompanied Minors,Other,Title 42,Expulsions,28
+2023,FYTD,OCT,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,5
+2023,FYTD,OCT,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,420
+2023,FYTD,OCT,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,352
+2023,FYTD,OCT,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2555
+2023,FYTD,OCT,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,4342
+2023,FYTD,OCT,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,5471
+2023,FYTD,OCT,Office of Field Operations,Single Adults,El Salvador,Title 42,Expulsions,15
+2023,FYTD,OCT,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,245
+2023,FYTD,OCT,Office of Field Operations,Single Adults,Guatemala,Title 42,Expulsions,27
+2023,FYTD,OCT,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,171
+2023,FYTD,OCT,Office of Field Operations,Single Adults,Honduras,Title 42,Expulsions,25
+2023,FYTD,OCT,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,824
+2023,FYTD,OCT,Office of Field Operations,Single Adults,Mexico,Title 42,Expulsions,1667
+2023,FYTD,OCT,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2973
+2023,FYTD,OCT,Office of Field Operations,Single Adults,Other,Title 42,Expulsions,141
+2023,FYTD,OCT,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,6554
+2023,FYTD,OCT,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,13
+2023,FYTD,OCT,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,39
+2023,FYTD,OCT,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,34
+2023,FYTD,OCT,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,244
+2023,FYTD,OCT,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,32
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,El Salvador,Title 42,Expulsions,460
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,701
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,Guatemala,Title 42,Expulsions,1226
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,209
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,Honduras,Title 42,Expulsions,1448
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,401
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,Mexico,Title 42,Expulsions,1783
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,964
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,Other,Title 42,Expulsions,2224
+2023,FYTD,OCT,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,37329
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,El Salvador,Title 42,Expulsions,2851
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,279
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,Guatemala,Title 42,Expulsions,8026
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,373
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,Honduras,Title 42,Expulsions,5726
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,439
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,Mexico,Title 42,Expulsions,49109
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,2806
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,Other,Title 42,Expulsions,7201
+2023,FYTD,OCT,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,69925
+2023,FYTD,OCT,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,1082
+2023,FYTD,OCT,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4416
+2023,FYTD,OCT,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2641
+2023,FYTD,OCT,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2185
+2023,FYTD,OCT,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1330
+2023,Remaining,SEP,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,2
+2023,Remaining,SEP,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,117
+2023,Remaining,SEP,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,13
+2023,Remaining,SEP,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,423
+2023,Remaining,SEP,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,457
+2023,Remaining,SEP,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2012
+2023,Remaining,SEP,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,7439
+2023,Remaining,SEP,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,10457
+2023,Remaining,SEP,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,489
+2023,Remaining,SEP,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,378
+2023,Remaining,SEP,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1735
+2023,Remaining,SEP,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5685
+2023,Remaining,SEP,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,21148
+2023,Remaining,SEP,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,10
+2023,Remaining,SEP,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,33
+2023,Remaining,SEP,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,56
+2023,Remaining,SEP,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,282
+2023,Remaining,SEP,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,236
+2023,Remaining,SEP,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,4543
+2023,Remaining,SEP,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,23652
+2023,Remaining,SEP,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,16226
+2023,Remaining,SEP,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,15393
+2023,Remaining,SEP,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,43213
+2023,Remaining,SEP,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1151
+2023,Remaining,SEP,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,4790
+2023,Remaining,SEP,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,4114
+2023,Remaining,SEP,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,22221
+2023,Remaining,SEP,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,70306
+2023,Remaining,SEP,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,934
+2023,Remaining,SEP,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,5227
+2023,Remaining,SEP,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,3165
+2023,Remaining,SEP,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2159
+2023,Remaining,SEP,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1669
+2024,FYTD,APR,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,4
+2024,FYTD,APR,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2024,FYTD,APR,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,114
+2024,FYTD,APR,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,20
+2024,FYTD,APR,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,276
+2024,FYTD,APR,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,317
+2024,FYTD,APR,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1398
+2024,FYTD,APR,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,7669
+2024,FYTD,APR,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,11766
+2024,FYTD,APR,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,377
+2024,FYTD,APR,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,403
+2024,FYTD,APR,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1135
+2024,FYTD,APR,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5646
+2024,FYTD,APR,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,20832
+2024,FYTD,APR,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,8
+2024,FYTD,APR,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,27
+2024,FYTD,APR,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,43
+2024,FYTD,APR,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,270
+2024,FYTD,APR,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,536
+2024,FYTD,APR,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1320
+2024,FYTD,APR,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,2895
+2024,FYTD,APR,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,2691
+2024,FYTD,APR,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,15415
+2024,FYTD,APR,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,17839
+2024,FYTD,APR,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1668
+2024,FYTD,APR,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,6940
+2024,FYTD,APR,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,3355
+2024,FYTD,APR,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,27915
+2024,FYTD,APR,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,41225
+2024,FYTD,APR,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,667
+2024,FYTD,APR,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,1785
+2024,FYTD,APR,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1582
+2024,FYTD,APR,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2570
+2024,FYTD,APR,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1028
+2024,FYTD,AUG,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,2
+2024,FYTD,AUG,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2024,FYTD,AUG,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,104
+2024,FYTD,AUG,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,16
+2024,FYTD,AUG,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,325
+2024,FYTD,AUG,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,317
+2024,FYTD,AUG,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1367
+2024,FYTD,AUG,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,5421
+2024,FYTD,AUG,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,13043
+2024,FYTD,AUG,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,346
+2024,FYTD,AUG,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,334
+2024,FYTD,AUG,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1067
+2024,FYTD,AUG,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5009
+2024,FYTD,AUG,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,21377
+2024,FYTD,AUG,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,11
+2024,FYTD,AUG,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,26
+2024,FYTD,AUG,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,43
+2024,FYTD,AUG,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,242
+2024,FYTD,AUG,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,413
+2024,FYTD,AUG,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,716
+2024,FYTD,AUG,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,1677
+2024,FYTD,AUG,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,1350
+2024,FYTD,AUG,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,6275
+2024,FYTD,AUG,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,5526
+2024,FYTD,AUG,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,823
+2024,FYTD,AUG,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,3096
+2024,FYTD,AUG,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,1651
+2024,FYTD,AUG,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,18278
+2024,FYTD,AUG,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,12220
+2024,FYTD,AUG,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,537
+2024,FYTD,AUG,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,1647
+2024,FYTD,AUG,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1462
+2024,FYTD,AUG,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2246
+2024,FYTD,AUG,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,505
+2024,FYTD,DEC,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,121
+2024,FYTD,DEC,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,19
+2024,FYTD,DEC,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,291
+2024,FYTD,DEC,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,316
+2024,FYTD,DEC,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,960
+2024,FYTD,DEC,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,7576
+2024,FYTD,DEC,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,12648
+2024,FYTD,DEC,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,276
+2024,FYTD,DEC,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,300
+2024,FYTD,DEC,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,943
+2024,FYTD,DEC,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,4856
+2024,FYTD,DEC,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,22929
+2024,FYTD,DEC,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,11
+2024,FYTD,DEC,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,42
+2024,FYTD,DEC,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,53
+2024,FYTD,DEC,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,248
+2024,FYTD,DEC,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,652
+2024,FYTD,DEC,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,3296
+2024,FYTD,DEC,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,13866
+2024,FYTD,DEC,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,10055
+2024,FYTD,DEC,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,29709
+2024,FYTD,DEC,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,44781
+2024,FYTD,DEC,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1781
+2024,FYTD,DEC,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,16323
+2024,FYTD,DEC,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,7018
+2024,FYTD,DEC,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,23436
+2024,FYTD,DEC,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,87019
+2024,FYTD,DEC,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,741
+2024,FYTD,DEC,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4504
+2024,FYTD,DEC,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1920
+2024,FYTD,DEC,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,3095
+2024,FYTD,DEC,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,2196
+2024,FYTD,FEB,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,98
+2024,FYTD,FEB,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,23
+2024,FYTD,FEB,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,213
+2024,FYTD,FEB,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,273
+2024,FYTD,FEB,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1063
+2024,FYTD,FEB,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,7398
+2024,FYTD,FEB,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,10223
+2024,FYTD,FEB,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,266
+2024,FYTD,FEB,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,273
+2024,FYTD,FEB,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,759
+2024,FYTD,FEB,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5320
+2024,FYTD,FEB,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,22368
+2024,FYTD,FEB,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,2
+2024,FYTD,FEB,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,18
+2024,FYTD,FEB,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,36
+2024,FYTD,FEB,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,258
+2024,FYTD,FEB,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,681
+2024,FYTD,FEB,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1757
+2024,FYTD,FEB,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,5811
+2024,FYTD,FEB,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,3355
+2024,FYTD,FEB,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,19193
+2024,FYTD,FEB,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,15856
+2024,FYTD,FEB,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1529
+2024,FYTD,FEB,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,14297
+2024,FYTD,FEB,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,3305
+2024,FYTD,FEB,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,27810
+2024,FYTD,FEB,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,38373
+2024,FYTD,FEB,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,649
+2024,FYTD,FEB,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,3114
+2024,FYTD,FEB,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1672
+2024,FYTD,FEB,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2917
+2024,FYTD,FEB,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1003
+2024,FYTD,JAN,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2024,FYTD,JAN,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,127
+2024,FYTD,JAN,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,22
+2024,FYTD,JAN,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,182
+2024,FYTD,JAN,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,342
+2024,FYTD,JAN,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,949
+2024,FYTD,JAN,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,7807
+2024,FYTD,JAN,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,11258
+2024,FYTD,JAN,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,214
+2024,FYTD,JAN,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,320
+2024,FYTD,JAN,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,891
+2024,FYTD,JAN,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5478
+2024,FYTD,JAN,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,23359
+2024,FYTD,JAN,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,2
+2024,FYTD,JAN,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,27
+2024,FYTD,JAN,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,44
+2024,FYTD,JAN,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,233
+2024,FYTD,JAN,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,724
+2024,FYTD,JAN,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1293
+2024,FYTD,JAN,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,4908
+2024,FYTD,JAN,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,2831
+2024,FYTD,JAN,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,18973
+2024,FYTD,JAN,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,11801
+2024,FYTD,JAN,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1183
+2024,FYTD,JAN,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,12088
+2024,FYTD,JAN,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,3103
+2024,FYTD,JAN,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,24871
+2024,FYTD,JAN,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,35681
+2024,FYTD,JAN,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,487
+2024,FYTD,JAN,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,2575
+2024,FYTD,JAN,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1085
+2024,FYTD,JAN,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2426
+2024,FYTD,JAN,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,910
+2024,FYTD,JUL,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2024,FYTD,JUL,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,138
+2024,FYTD,JUL,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,28
+2024,FYTD,JUL,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,323
+2024,FYTD,JUL,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,261
+2024,FYTD,JUL,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1289
+2024,FYTD,JUL,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,5421
+2024,FYTD,JUL,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,12142
+2024,FYTD,JUL,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,418
+2024,FYTD,JUL,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,364
+2024,FYTD,JUL,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1158
+2024,FYTD,JUL,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,4923
+2024,FYTD,JUL,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,20539
+2024,FYTD,JUL,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,10
+2024,FYTD,JUL,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,32
+2024,FYTD,JUL,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,44
+2024,FYTD,JUL,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,202
+2024,FYTD,JUL,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,407
+2024,FYTD,JUL,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,712
+2024,FYTD,JUL,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,1948
+2024,FYTD,JUL,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,1316
+2024,FYTD,JUL,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,5706
+2024,FYTD,JUL,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,6398
+2024,FYTD,JUL,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,957
+2024,FYTD,JUL,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,3275
+2024,FYTD,JUL,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,1798
+2024,FYTD,JUL,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,14848
+2024,FYTD,JUL,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,13818
+2024,FYTD,JUL,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,470
+2024,FYTD,JUL,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,1569
+2024,FYTD,JUL,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1400
+2024,FYTD,JUL,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1661
+2024,FYTD,JUL,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,524
+2024,FYTD,JUN,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,3
+2024,FYTD,JUN,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,92
+2024,FYTD,JUN,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,20
+2024,FYTD,JUN,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,278
+2024,FYTD,JUN,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,326
+2024,FYTD,JUN,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1376
+2024,FYTD,JUN,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,5316
+2024,FYTD,JUN,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,11836
+2024,FYTD,JUN,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,408
+2024,FYTD,JUN,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,493
+2024,FYTD,JUN,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1093
+2024,FYTD,JUN,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,4936
+2024,FYTD,JUN,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,19940
+2024,FYTD,JUN,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,13
+2024,FYTD,JUN,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,31
+2024,FYTD,JUN,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,42
+2024,FYTD,JUN,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,205
+2024,FYTD,JUN,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,475
+2024,FYTD,JUN,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1161
+2024,FYTD,JUN,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,3098
+2024,FYTD,JUN,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,2274
+2024,FYTD,JUN,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,12475
+2024,FYTD,JUN,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,8809
+2024,FYTD,JUN,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1286
+2024,FYTD,JUN,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,5659
+2024,FYTD,JUN,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,2587
+2024,FYTD,JUN,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,17471
+2024,FYTD,JUN,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,22050
+2024,FYTD,JUN,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,593
+2024,FYTD,JUN,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,1876
+2024,FYTD,JUN,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1516
+2024,FYTD,JUN,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2020
+2024,FYTD,JUN,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,657
+2024,FYTD,MAR,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2024,FYTD,MAR,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,138
+2024,FYTD,MAR,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,21
+2024,FYTD,MAR,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,291
+2024,FYTD,MAR,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,320
+2024,FYTD,MAR,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1203
+2024,FYTD,MAR,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,7621
+2024,FYTD,MAR,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,11226
+2024,FYTD,MAR,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,317
+2024,FYTD,MAR,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,362
+2024,FYTD,MAR,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,960
+2024,FYTD,MAR,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5790
+2024,FYTD,MAR,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,22733
+2024,FYTD,MAR,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,4
+2024,FYTD,MAR,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,23
+2024,FYTD,MAR,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,39
+2024,FYTD,MAR,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,229
+2024,FYTD,MAR,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,608
+2024,FYTD,MAR,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1179
+2024,FYTD,MAR,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,3769
+2024,FYTD,MAR,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,2784
+2024,FYTD,MAR,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,19008
+2024,FYTD,MAR,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,19247
+2024,FYTD,MAR,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1500
+2024,FYTD,MAR,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,9059
+2024,FYTD,MAR,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,3043
+2024,FYTD,MAR,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,30108
+2024,FYTD,MAR,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,39850
+2024,FYTD,MAR,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,506
+2024,FYTD,MAR,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,1959
+2024,FYTD,MAR,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1427
+2024,FYTD,MAR,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,3038
+2024,FYTD,MAR,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,996
+2024,FYTD,MAY,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,135
+2024,FYTD,MAY,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,17
+2024,FYTD,MAY,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,350
+2024,FYTD,MAY,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,367
+2024,FYTD,MAY,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1282
+2024,FYTD,MAY,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,8123
+2024,FYTD,MAY,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,12780
+2024,FYTD,MAY,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,500
+2024,FYTD,MAY,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,446
+2024,FYTD,MAY,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1038
+2024,FYTD,MAY,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5785
+2024,FYTD,MAY,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,21049
+2024,FYTD,MAY,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,9
+2024,FYTD,MAY,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,19
+2024,FYTD,MAY,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,37
+2024,FYTD,MAY,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,284
+2024,FYTD,MAY,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,590
+2024,FYTD,MAY,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,1426
+2024,FYTD,MAY,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,3508
+2024,FYTD,MAY,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,2854
+2024,FYTD,MAY,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,19375
+2024,FYTD,MAY,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,14656
+2024,FYTD,MAY,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1855
+2024,FYTD,MAY,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,7370
+2024,FYTD,MAY,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,3684
+2024,FYTD,MAY,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,23184
+2024,FYTD,MAY,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,32300
+2024,FYTD,MAY,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,618
+2024,FYTD,MAY,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,2151
+2024,FYTD,MAY,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1563
+2024,FYTD,MAY,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2569
+2024,FYTD,MAY,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,792
+2024,FYTD,NOV,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2024,FYTD,NOV,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,102
+2024,FYTD,NOV,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,18
+2024,FYTD,NOV,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,360
+2024,FYTD,NOV,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,395
+2024,FYTD,NOV,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1116
+2024,FYTD,NOV,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,8270
+2024,FYTD,NOV,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,11329
+2024,FYTD,NOV,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,315
+2024,FYTD,NOV,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,332
+2024,FYTD,NOV,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1114
+2024,FYTD,NOV,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5173
+2024,FYTD,NOV,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,21914
+2024,FYTD,NOV,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,10
+2024,FYTD,NOV,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,49
+2024,FYTD,NOV,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,45
+2024,FYTD,NOV,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,294
+2024,FYTD,NOV,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,456
+2024,FYTD,NOV,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,4451
+2024,FYTD,NOV,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,13585
+2024,FYTD,NOV,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,9586
+2024,FYTD,NOV,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,23670
+2024,FYTD,NOV,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,31384
+2024,FYTD,NOV,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1301
+2024,FYTD,NOV,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,7463
+2024,FYTD,NOV,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,4976
+2024,FYTD,NOV,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,24435
+2024,FYTD,NOV,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,58315
+2024,FYTD,NOV,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,952
+2024,FYTD,NOV,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,4470
+2024,FYTD,NOV,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2027
+2024,FYTD,NOV,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2875
+2024,FYTD,NOV,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1616
+2024,FYTD,OCT,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,3
+2024,FYTD,OCT,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,106
+2024,FYTD,OCT,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,14
+2024,FYTD,OCT,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,458
+2024,FYTD,OCT,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,426
+2024,FYTD,OCT,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1985
+2024,FYTD,OCT,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,8215
+2024,FYTD,OCT,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,10797
+2024,FYTD,OCT,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,436
+2024,FYTD,OCT,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,371
+2024,FYTD,OCT,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1721
+2024,FYTD,OCT,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5375
+2024,FYTD,OCT,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,21469
+2024,FYTD,OCT,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,10
+2024,FYTD,OCT,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,38
+2024,FYTD,OCT,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,66
+2024,FYTD,OCT,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,299
+2024,FYTD,OCT,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,389
+2024,FYTD,OCT,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,4448
+2024,FYTD,OCT,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,14767
+2024,FYTD,OCT,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,11475
+2024,FYTD,OCT,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,21440
+2024,FYTD,OCT,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,32281
+2024,FYTD,OCT,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,1050
+2024,FYTD,OCT,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,4493
+2024,FYTD,OCT,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,4360
+2024,FYTD,OCT,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,25143
+2024,FYTD,OCT,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,58595
+2024,FYTD,OCT,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,848
+2024,FYTD,OCT,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,3754
+2024,FYTD,OCT,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,2208
+2024,FYTD,OCT,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2411
+2024,FYTD,OCT,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,1476
+2024,Remaining,SEP,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2024,Remaining,SEP,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2024,Remaining,SEP,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,128
+2024,Remaining,SEP,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,30
+2024,Remaining,SEP,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,380
+2024,Remaining,SEP,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,428
+2024,Remaining,SEP,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1603
+2024,Remaining,SEP,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,4871
+2024,Remaining,SEP,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,12716
+2024,Remaining,SEP,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,500
+2024,Remaining,SEP,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,517
+2024,Remaining,SEP,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1297
+2024,Remaining,SEP,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,5045
+2024,Remaining,SEP,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,19730
+2024,Remaining,SEP,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,9
+2024,Remaining,SEP,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,17
+2024,Remaining,SEP,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,54
+2024,Remaining,SEP,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,194
+2024,Remaining,SEP,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,411
+2024,Remaining,SEP,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,648
+2024,Remaining,SEP,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,1484
+2024,Remaining,SEP,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,1142
+2024,Remaining,SEP,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,5530
+2024,Remaining,SEP,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,4795
+2024,Remaining,SEP,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,768
+2024,Remaining,SEP,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,2950
+2024,Remaining,SEP,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,1420
+2024,Remaining,SEP,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,18126
+2024,Remaining,SEP,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,11156
+2024,Remaining,SEP,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,510
+2024,Remaining,SEP,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,1561
+2024,Remaining,SEP,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1280
+2024,Remaining,SEP,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,2057
+2024,Remaining,SEP,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,431
+2025 (FYTD),FYTD,APR,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,APR,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,73
+2025 (FYTD),FYTD,APR,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,6
+2025 (FYTD),FYTD,APR,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,APR,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,APR,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,3
+2025 (FYTD),FYTD,APR,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,412
+2025 (FYTD),FYTD,APR,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,50
+2025 (FYTD),FYTD,APR,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,4
+2025 (FYTD),FYTD,APR,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,17
+2025 (FYTD),FYTD,APR,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,11
+2025 (FYTD),FYTD,APR,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2883
+2025 (FYTD),FYTD,APR,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,142
+2025 (FYTD),FYTD,APR,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,APR,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,37
+2025 (FYTD),FYTD,APR,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,3
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,14
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,45
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,33
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,190
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,252
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,106
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,626
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,337
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,5394
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,590
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,28
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,108
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,68
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,544
+2025 (FYTD),FYTD,APR,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,42
+2025 (FYTD),FYTD,AUG,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,62
+2025 (FYTD),FYTD,AUG,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,AUG,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,3
+2025 (FYTD),FYTD,AUG,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,AUG,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,506
+2025 (FYTD),FYTD,AUG,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,39
+2025 (FYTD),FYTD,AUG,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,6
+2025 (FYTD),FYTD,AUG,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,10
+2025 (FYTD),FYTD,AUG,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,6
+2025 (FYTD),FYTD,AUG,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2619
+2025 (FYTD),FYTD,AUG,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,118
+2025 (FYTD),FYTD,AUG,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,AUG,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,4
+2025 (FYTD),FYTD,AUG,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,39
+2025 (FYTD),FYTD,AUG,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,3
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,10
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,31
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,63
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,255
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,155
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,91
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,400
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,333
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,3713
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,645
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,19
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,69
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,44
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,463
+2025 (FYTD),FYTD,AUG,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,30
+2025 (FYTD),FYTD,DEC,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,DEC,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,DEC,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,98
+2025 (FYTD),FYTD,DEC,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,29
+2025 (FYTD),FYTD,DEC,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,645
+2025 (FYTD),FYTD,DEC,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,853
+2025 (FYTD),FYTD,DEC,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2547
+2025 (FYTD),FYTD,DEC,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,4971
+2025 (FYTD),FYTD,DEC,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,12446
+2025 (FYTD),FYTD,DEC,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,620
+2025 (FYTD),FYTD,DEC,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,977
+2025 (FYTD),FYTD,DEC,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1701
+2025 (FYTD),FYTD,DEC,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,4732
+2025 (FYTD),FYTD,DEC,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,18383
+2025 (FYTD),FYTD,DEC,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,22
+2025 (FYTD),FYTD,DEC,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,60
+2025 (FYTD),FYTD,DEC,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,97
+2025 (FYTD),FYTD,DEC,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,149
+2025 (FYTD),FYTD,DEC,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,381
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,560
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,2007
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,1317
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,3096
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,7285
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,696
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,2835
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,1538
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,11245
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,10628
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,428
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,2258
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1338
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1453
+2025 (FYTD),FYTD,DEC,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,640
+2025 (FYTD),FYTD,FEB,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,33
+2025 (FYTD),FYTD,FEB,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,FEB,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,FEB,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,255
+2025 (FYTD),FYTD,FEB,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,73
+2025 (FYTD),FYTD,FEB,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,12
+2025 (FYTD),FYTD,FEB,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,23
+2025 (FYTD),FYTD,FEB,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,5
+2025 (FYTD),FYTD,FEB,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2678
+2025 (FYTD),FYTD,FEB,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,198
+2025 (FYTD),FYTD,FEB,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,FEB,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,22
+2025 (FYTD),FYTD,FEB,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,FEB,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,29
+2025 (FYTD),FYTD,FEB,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,25
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,26
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,95
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,35
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,161
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,492
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,201
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,1160
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,427
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,3741
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,1282
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,45
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,181
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,101
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,338
+2025 (FYTD),FYTD,FEB,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,68
+2025 (FYTD),FYTD,JAN,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,80
+2025 (FYTD),FYTD,JAN,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,11
+2025 (FYTD),FYTD,JAN,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,359
+2025 (FYTD),FYTD,JAN,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,532
+2025 (FYTD),FYTD,JAN,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,1392
+2025 (FYTD),FYTD,JAN,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,3618
+2025 (FYTD),FYTD,JAN,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,7676
+2025 (FYTD),FYTD,JAN,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,410
+2025 (FYTD),FYTD,JAN,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,604
+2025 (FYTD),FYTD,JAN,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1088
+2025 (FYTD),FYTD,JAN,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,4457
+2025 (FYTD),FYTD,JAN,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,11640
+2025 (FYTD),FYTD,JAN,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,7
+2025 (FYTD),FYTD,JAN,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,45
+2025 (FYTD),FYTD,JAN,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,40
+2025 (FYTD),FYTD,JAN,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,113
+2025 (FYTD),FYTD,JAN,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,269
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,265
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,603
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,595
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,1316
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,4317
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,456
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,1912
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,995
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,9189
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,6712
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,216
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,742
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,499
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,900
+2025 (FYTD),FYTD,JAN,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,390
+2025 (FYTD),FYTD,JUL,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,48
+2025 (FYTD),FYTD,JUL,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,5
+2025 (FYTD),FYTD,JUL,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,JUL,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,499
+2025 (FYTD),FYTD,JUL,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,35
+2025 (FYTD),FYTD,JUL,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,3
+2025 (FYTD),FYTD,JUL,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,8
+2025 (FYTD),FYTD,JUL,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,6
+2025 (FYTD),FYTD,JUL,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2473
+2025 (FYTD),FYTD,JUL,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,125
+2025 (FYTD),FYTD,JUL,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,19
+2025 (FYTD),FYTD,JUL,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,5
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,12
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,11
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,37
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,115
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,143
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,78
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,440
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,235
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,2611
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,463
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,7
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,57
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,29
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,345
+2025 (FYTD),FYTD,JUL,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,13
+2025 (FYTD),FYTD,JUN,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,40
+2025 (FYTD),FYTD,JUN,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,JUN,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,JUN,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,405
+2025 (FYTD),FYTD,JUN,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,40
+2025 (FYTD),FYTD,JUN,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,6
+2025 (FYTD),FYTD,JUN,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,18
+2025 (FYTD),FYTD,JUN,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,5
+2025 (FYTD),FYTD,JUN,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,2517
+2025 (FYTD),FYTD,JUN,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,161
+2025 (FYTD),FYTD,JUN,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,JUN,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,JUN,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,27
+2025 (FYTD),FYTD,JUN,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,9
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,4
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,49
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,24
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,101
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,100
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,92
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,629
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,304
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,3600
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,526
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,20
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,120
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,50
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,416
+2025 (FYTD),FYTD,JUN,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,33
+2025 (FYTD),FYTD,MAR,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,64
+2025 (FYTD),FYTD,MAR,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,MAR,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,MAR,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,330
+2025 (FYTD),FYTD,MAR,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,31
+2025 (FYTD),FYTD,MAR,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,11
+2025 (FYTD),FYTD,MAR,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,22
+2025 (FYTD),FYTD,MAR,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,4
+2025 (FYTD),FYTD,MAR,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,3144
+2025 (FYTD),FYTD,MAR,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,189
+2025 (FYTD),FYTD,MAR,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,MAR,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,27
+2025 (FYTD),FYTD,MAR,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,6
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,10
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,49
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,41
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,121
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,247
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,154
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,693
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,267
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,4230
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,737
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,23
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,89
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,62
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,411
+2025 (FYTD),FYTD,MAR,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,46
+2025 (FYTD),FYTD,MAY,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,54
+2025 (FYTD),FYTD,MAY,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,6
+2025 (FYTD),FYTD,MAY,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,4
+2025 (FYTD),FYTD,MAY,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,MAY,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,4
+2025 (FYTD),FYTD,MAY,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,324
+2025 (FYTD),FYTD,MAY,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,68
+2025 (FYTD),FYTD,MAY,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,12
+2025 (FYTD),FYTD,MAY,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,13
+2025 (FYTD),FYTD,MAY,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,12
+2025 (FYTD),FYTD,MAY,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,3043
+2025 (FYTD),FYTD,MAY,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,148
+2025 (FYTD),FYTD,MAY,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,3
+2025 (FYTD),FYTD,MAY,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,27
+2025 (FYTD),FYTD,MAY,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,6
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,7
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,51
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,29
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,183
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,190
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,142
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,714
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,312
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,5425
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,664
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,43
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,190
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,95
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,640
+2025 (FYTD),FYTD,MAY,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,40
+2025 (FYTD),FYTD,NOV,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,2
+2025 (FYTD),FYTD,NOV,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,63
+2025 (FYTD),FYTD,NOV,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,20
+2025 (FYTD),FYTD,NOV,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,533
+2025 (FYTD),FYTD,NOV,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,714
+2025 (FYTD),FYTD,NOV,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2340
+2025 (FYTD),FYTD,NOV,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,5404
+2025 (FYTD),FYTD,NOV,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,11776
+2025 (FYTD),FYTD,NOV,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,677
+2025 (FYTD),FYTD,NOV,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,763
+2025 (FYTD),FYTD,NOV,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1603
+2025 (FYTD),FYTD,NOV,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,4692
+2025 (FYTD),FYTD,NOV,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,18291
+2025 (FYTD),FYTD,NOV,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,22
+2025 (FYTD),FYTD,NOV,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,45
+2025 (FYTD),FYTD,NOV,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,86
+2025 (FYTD),FYTD,NOV,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,186
+2025 (FYTD),FYTD,NOV,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,357
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,633
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,1834
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,1073
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,4003
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,4705
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,730
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,2758
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,1280
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,14931
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,8900
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,511
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,1849
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1236
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1743
+2025 (FYTD),FYTD,NOV,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,426
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Accompanied Minors,El Salvador,Title 8,Inadmissibles,1
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Accompanied Minors,Guatemala,Title 8,Inadmissibles,4
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Accompanied Minors,Honduras,Title 8,Inadmissibles,3
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Accompanied Minors,Mexico,Title 8,Inadmissibles,93
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Accompanied Minors,Other,Title 8,Inadmissibles,27
+2025 (FYTD),FYTD,OCT,Office of Field Operations,FMUA,El Salvador,Title 8,Inadmissibles,524
+2025 (FYTD),FYTD,OCT,Office of Field Operations,FMUA,Guatemala,Title 8,Inadmissibles,597
+2025 (FYTD),FYTD,OCT,Office of Field Operations,FMUA,Honduras,Title 8,Inadmissibles,2210
+2025 (FYTD),FYTD,OCT,Office of Field Operations,FMUA,Mexico,Title 8,Inadmissibles,5411
+2025 (FYTD),FYTD,OCT,Office of Field Operations,FMUA,Other,Title 8,Inadmissibles,12730
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Single Adults,El Salvador,Title 8,Inadmissibles,575
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Single Adults,Guatemala,Title 8,Inadmissibles,678
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Single Adults,Honduras,Title 8,Inadmissibles,1564
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Single Adults,Mexico,Title 8,Inadmissibles,4979
+2025 (FYTD),FYTD,OCT,Office of Field Operations,Single Adults,Other,Title 8,Inadmissibles,19680
+2025 (FYTD),FYTD,OCT,Office of Field Operations,UAC,El Salvador,Title 8,Inadmissibles,11
+2025 (FYTD),FYTD,OCT,Office of Field Operations,UAC,Guatemala,Title 8,Inadmissibles,35
+2025 (FYTD),FYTD,OCT,Office of Field Operations,UAC,Honduras,Title 8,Inadmissibles,62
+2025 (FYTD),FYTD,OCT,Office of Field Operations,UAC,Mexico,Title 8,Inadmissibles,211
+2025 (FYTD),FYTD,OCT,Office of Field Operations,UAC,Other,Title 8,Inadmissibles,406
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,FMUA,El Salvador,Title 8,Apprehensions,756
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,FMUA,Guatemala,Title 8,Apprehensions,1738
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,FMUA,Honduras,Title 8,Apprehensions,1168
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,FMUA,Mexico,Title 8,Apprehensions,5724
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,FMUA,Other,Title 8,Apprehensions,5855
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,Single Adults,El Salvador,Title 8,Apprehensions,763
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,Single Adults,Guatemala,Title 8,Apprehensions,3192
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,Single Adults,Honduras,Title 8,Apprehensions,1432
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,Single Adults,Mexico,Title 8,Apprehensions,17680
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,Single Adults,Other,Title 8,Apprehensions,12336
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,UAC,El Salvador,Title 8,Apprehensions,491
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,UAC,Guatemala,Title 8,Apprehensions,1695
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,UAC,Honduras,Title 8,Apprehensions,1201
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,UAC,Mexico,Title 8,Apprehensions,1985
+2025 (FYTD),FYTD,OCT,U.S. Border Patrol,UAC,Other,Title 8,Apprehensions,504
