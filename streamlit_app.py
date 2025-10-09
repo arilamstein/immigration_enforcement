@@ -30,12 +30,3 @@ with border_tab:
     st.plotly_chart(fig, use_container_width=True)
 with about_tab:
     st.write(open("text/about.md").read())
-
-st.markdown(
-    """
-    ---
-    :small[Created by [Ari Lamstein](https://arilamstein.com/).
-    View the source code
-    [here](https://github.com/arilamstein/immigration_enforcement).]
-    """
-)
