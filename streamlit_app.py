@@ -1,5 +1,6 @@
 import streamlit as st
 import backend as be
+import detentions
 import footnotes
 
 st.title("US Immigration Enforcement Data")
@@ -27,7 +28,7 @@ with graph_tab:
     st.markdown(footnotes.get_footnote(dataset), unsafe_allow_html=True)
 with data_tab:
     st.write(open("data.md").read())
-    df = be.get_detention_data()
+    df = detentions.get_detention_data()
     st.dataframe(df, hide_index=True)
     st.download_button(
         label="Download as CSV",
