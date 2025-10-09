@@ -1,6 +1,7 @@
 import pandas as pd
 from datetime import datetime
 import plotly.express as px
+from pathlib import Path
 
 
 def _convert_fiscal_date_to_calendar_date(fiscal_date):
@@ -35,9 +36,11 @@ def _get_historic_sw_border_encounters():
     """
 
     # Read in data
-    df = pd.read_excel(
-        "KHSM Encounters (USBP) fy25m11.xlsx", sheet_name="Monthly Region"
-    )
+    # By using Path to construct the path, this function works if imported from a notebook in the same directory
+    # or a module in another directory (ex. the streamlit app a directory above)
+    module_dir = Path(__file__).parent
+    file_path = module_dir / "KHSM Encounters (USBP) fy25m11.xlsx"
+    df = pd.read_excel(file_path, sheet_name="Monthly Region")
 
     # Rename columns
     df = df.rename(columns={"Fiscal\nYear": "Fiscal_Year", "Quantity": "Encounters"})
@@ -79,7 +82,11 @@ def _get_ytd_sw_border_encounters():
 
     This dates here are listed as fiscal years, and must be converted to calendar dates.
     """
-    df = pd.read_csv("sbo-encounters-fy22-fy25-aug.csv")
+    # By using Path to construct the path, this function works if imported from a notebook in the same directory
+    # or a module in another directory (ex. the streamlit app a directory above)
+    module_dir = Path(__file__).parent
+    file_path = module_dir / "sbo-encounters-fy22-fy25-aug.csv"
+    df = pd.read_csv(file_path)
 
     # Subset to the latest year for Border Patrol
     mask = (df["Fiscal Year"] == "2025 (FYTD)") & (
