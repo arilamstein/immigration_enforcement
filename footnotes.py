@@ -54,5 +54,7 @@ def get_footnote(dataset):
         return get_date_footnote()
     elif dataset == "Criminality":
         return get_criminality_footnote()
+    elif dataset == "Border Patrol":
+        return ""
     else:
         raise ValueError(f"Unknown dataset {dataset}")

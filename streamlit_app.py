@@ -8,7 +8,9 @@ graph_tab, data_tab, about_tab = st.tabs(["📈 Graphs", "📋 Data", "ℹ️ Ab
 with graph_tab:
     col1, col2, col3 = st.columns(3)
     with col1:
-        dataset = st.selectbox("Dataset", ["Arresting Authority", "Criminality"])
+        dataset = st.selectbox(
+            "Dataset", ["Arresting Authority", "Criminality", "Border Patrol"]
+        )
     with col2:
         display = st.selectbox("Display", ["Count", "Percent"])
     with col3:

@@ -7,6 +7,7 @@ import streamlit as st
 import requests
 import pandas as pd
 import plotly.express as px
+import cbp.encounters as encounters
 
 colorblind_palette = colorblind_palette = [
     "#377eb8",  # blue
@@ -233,7 +234,7 @@ def get_graph(dataset, display, authority):
 
     Parameters
     ----------
-    - dataset: one of "Arresting Authority" or "Criminality"
+    - dataset: one of "Arresting Authority", "Criminality" or "Border Patrol"
     - display: one of "Count" or "Percent"
     - authority: one of "CBP" (for "Customers and Border Protection"), "ICE" (for "Immigration and Customers
     Enforcement") or "All" (for the total number)
@@ -252,6 +253,8 @@ def get_graph(dataset, display, authority):
             fig = get_criminality_count_chart(authority)
         elif display == "Percent":
             fig = get_criminality_pct_chart(authority)
+    elif dataset == "Border Patrol":
+        fig = encounters.get_sw_border_encounters_graph()
 
     if not fig:
         raise ValueError(
