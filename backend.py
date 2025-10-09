@@ -1,4 +1,4 @@
-import cbp.encounters as encounters
+import borderpatrol.encounters as encounters
 import detentions
 
 
