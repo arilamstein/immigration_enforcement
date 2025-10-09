@@ -14,7 +14,8 @@ and Coastal Border - this module focuses exclusively on the Southwest Land Borde
 
 The `encounters` module has two functions external users will want to call:
   * `get_sw_border_encounters`: returns a cleaned, merged, dataset of monthly encounters at the Southwest Land Border.
-  * `get_sw_border_encounters_graph`: returns a preformatted graph of those encounters, suitable for display or analysis.
+  * `get_sw_border_encounters_graph`: returns a preformatted graph of those encounters,
+    suitable for display or analysis.
 """
 
 import pandas as pd
