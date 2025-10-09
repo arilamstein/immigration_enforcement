@@ -3,14 +3,14 @@ import backend as be
 import detentions
 import text.footnotes as footnotes
 
-st.title("US Immigration Enforcement Data")
+st.title("Immigration Enforcement Explorer")
 
-graph_tab, data_tab, about_tab = st.tabs(["📈 Graphs", "📋 Data", "ℹ️ About"])
-with graph_tab:
+ice_tab, border_tab, about_tab = st.tabs(["🔒 ICE Detentions", "🛂 Border Patrol Encounters", "ℹ️ About"])
+with ice_tab:
     col1, col2, col3 = st.columns(3)
     with col1:
         dataset = st.selectbox(
-            "Dataset", ["Arresting Authority", "Criminality", "Border Patrol"]
+            "Dataset", ["Arresting Authority", "Criminality"]
         )
     with col2:
         display = st.selectbox("Display", ["Count", "Percent"])
@@ -26,16 +26,9 @@ with graph_tab:
     st.plotly_chart(fig, use_container_width=True)
     # Each dataset has different footnotes.
     st.markdown(footnotes.get_footnote(dataset), unsafe_allow_html=True)
-with data_tab:
-    st.write(open("text/data.md").read())
-    df = detentions.get_detention_data()
-    st.dataframe(df, hide_index=True)
-    st.download_button(
-        label="Download as CSV",
-        data=df.to_csv(index=False),
-        file_name="ice_detention_data.csv",
-        mime="text/csv",
-    )
+with border_tab:
+    fig = be.get_graph("Border Patrol", None, None)
+    st.plotly_chart(fig, use_container_width=True)
 with about_tab:
     st.write(open("text/about.md").read())
 
