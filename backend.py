@@ -76,7 +76,7 @@ def get_aa_count_chart():
         title="ICE Detainees by Date* and Arresting Authority",
     )
 
-    return fig
+    return _add_presidential_annotations_to_graph(fig)
 
 
 def get_aa_pct_chart():
@@ -108,7 +108,7 @@ def get_aa_pct_chart():
         title="ICE Detainees by Date* and Arresting Authority",
     )
 
-    return fig
+    return _add_presidential_annotations_to_graph(fig)
 
 
 def get_col_prefix(authority):
@@ -181,7 +181,7 @@ def get_criminality_count_chart(authority):
         title=get_criminality_chart_title(authority),
     )
 
-    return fig
+    return _add_presidential_annotations_to_graph(fig)
 
 
 def get_criminality_pct_chart(authority):
@@ -226,7 +226,7 @@ def get_criminality_pct_chart(authority):
         title=get_criminality_chart_title(authority),
     )
 
-    return fig
+    return _add_presidential_annotations_to_graph(fig)
 
 
 def _get_max_y_value_from_figure(fig):
@@ -296,4 +296,4 @@ def get_graph(dataset, display, authority):
             f"Cannot create graph for dataset={dataset}, display={display}"
         )
 
-    return _add_presidential_annotations_to_graph(fig)
+    return fig

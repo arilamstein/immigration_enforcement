@@ -1,3 +1,22 @@
+"""
+Functions to work with data on US Border Patrol "Encounters" with Removable Aliens.
+
+The data is sourced from two official Department of Homeland Security (DHS) datasets:
+  * CBP Encounters (https://ohss.dhs.gov/khsm/cbp-encounters): includes monthly data from October FY2000 through
+    November FY2025. This module uses only data through FY2024 to avoid overlap with the FYTD dataset.
+  * Southwest Land Border Encounters (https://www.cbp.gov/document/stats/southwest-land-border-encounters):
+    includes fiscal year-to-date (FYTD) data from FY2022 through FY2025. This module uses only FY2025 (FYTD) data.
+
+The above datasets were downloaded from the above websites and are stored in this directory.
+
+Although Border Patrol encounters are reported across three regions - Southwest Land Border, Northern Land Border,
+and Coastal Border - this module focuses exclusively on the Southwest Land Border.
+
+The `encounters` module has two functions external users will want to call:
+  * `get_sw_border_encounters`: returns a cleaned, merged, dataset of monthly encounters at the Southwest Land Border.
+  * `get_sw_border_encounters_graph`: returns a preformatted graph of those encounters, suitable for display or analysis.
+"""
+
 import pandas as pd
 from datetime import datetime
 import plotly.express as px
