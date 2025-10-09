@@ -1,17 +1,16 @@
 import streamlit as st
 import backend as be
-import detentions
 import text.footnotes as footnotes
 
 st.title("Immigration Enforcement Explorer")
 
-ice_tab, border_tab, about_tab = st.tabs(["🔒 ICE Detentions", "🛂 Border Patrol Encounters", "ℹ️ About"])
+ice_tab, border_tab, about_tab = st.tabs(
+    ["🔒 ICE Detentions", "🛂 Border Patrol Encounters", "ℹ️ About"]
+)
 with ice_tab:
     col1, col2, col3 = st.columns(3)
     with col1:
-        dataset = st.selectbox(
-            "Dataset", ["Arresting Authority", "Criminality"]
-        )
+        dataset = st.selectbox("Dataset", ["Arresting Authority", "Criminality"])
     with col2:
         display = st.selectbox("Display", ["Count", "Percent"])
     with col3:
