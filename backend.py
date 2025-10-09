@@ -8,6 +8,7 @@ import requests
 import pandas as pd
 import plotly.express as px
 import cbp.encounters as encounters
+from datetime import datetime
 
 colorblind_palette = colorblind_palette = [
     "#377eb8",  # blue
@@ -228,6 +229,40 @@ def get_criminality_pct_chart(authority):
     return fig
 
 
+def _get_max_y_value_from_figure(fig):
+    return max(
+        max(trace.y)
+        for trace in fig.data
+        if hasattr(trace, "y") and trace.y is not None
+    )
+
+
+def _add_presidential_annotations_to_graph(fig):
+    """Add a vertical line showing when presidential administrations changed."""
+    administrations = [
+        {"President": "Joe Biden", "Start": datetime(2021, 1, 20)},
+        {"President": "Donald Trump", "Start": datetime(2025, 1, 20)},
+    ]
+
+    max_y = _get_max_y_value_from_figure(fig)
+
+    for one_administration in administrations:
+        fig.add_vline(
+            x=one_administration["Start"], line_color="black", line_dash="dash"
+        )
+        fig.add_annotation(
+            x=one_administration["Start"],
+            y=max_y,
+            text=one_administration["President"],
+            xanchor="left",
+            xshift=5,
+            showarrow=False,
+            yanchor="bottom",
+        )
+
+    return fig
+
+
 def get_graph(dataset, display, authority):
     """
     Get the graph specified by the dataset, display and authority.
@@ -261,4 +296,4 @@ def get_graph(dataset, display, authority):
             f"Cannot create graph for dataset={dataset}, display={display}"
         )
 
-    return fig
+    return _add_presidential_annotations_to_graph(fig)
