@@ -19,7 +19,9 @@ with ice_tab:
     st.markdown(
         """
         **ICE Detentions** shows periodic snapshots of detainee populations held in ICE facilities.
-        You can explore how these numbers vary by arresting authority and criminality status.
+        You can explore how these numbers vary by arresting authority and criminality status. To learn more
+        about this dataset, click
+        [here](https://arilamstein.com/blog/2025/07/21/a-python-app-for-analyzing-immigration-enforcement-data/).
         """
     )
     col1, col2, col3 = st.columns(3)
@@ -43,7 +45,8 @@ with border_tab:
     st.markdown(
         """
         **Border Patrol Encounters** combines year-to-date data from CBP with historic data from OHSS.
-        This view helps you explore long-term trends in border enforcement activity.
+        This view helps you explore long-term trends in border enforcement activity. To learn more about this
+        dataset, click [here](https://arilamstein.com/blog/2025/10/06/visualizing-25-years-border-patrol-data-python/).
         """
     )
     fig = be.get_graph("Border Patrol", None, None)
