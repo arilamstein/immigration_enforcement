@@ -1,5 +1,3 @@
-## About This App
-
 In 2025, President Trump increased immigration enforcement in the United States. That made me wonder: what was the baseline for immigration enforcement, and how much was it actually increasing? This app is my attempt to answer those questions—by visualizing publicly available data in a way that's accessible and up-to-date.
 
 The app currently includes two datasets:
