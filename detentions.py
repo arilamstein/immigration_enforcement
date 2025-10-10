@@ -266,14 +266,8 @@ def _style_detentions_graph(fig):
         )
 
     fig.update_layout(
-        legend=dict(
-            orientation="h",
-            yanchor="bottom",
-            y=1.02,
-            xanchor="left",
-            x=0
-        ),
-        margin=dict(t=100)  # Increase top margin to prevent overlap
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="left", x=0),
+        margin=dict(t=100),  # Increase top margin to prevent overlap
     )
 
     return fig
