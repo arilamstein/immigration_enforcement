@@ -10,11 +10,14 @@ I used `uv` to manage my virtual environment while developing this project. To r
 4. Type `source .venv/bin/activate` to activate the virtual environment.
 5. Type `streamlit run streamlit_app.py` to run the app locally.
 
-## Modifying the App
+## App Structure.
 
-The app is built in Python, using the Streamlit and Pandas libraries.
+The app is built in Python, using the Streamlit and Pandas libraries. 
 
-The front end code is in `streamlit_app.py`. The analytical code is in `backend.py`.
+  * `streamlit_app.py`: Front-end logic and tab layout.
+  * `backend.py`: Routes user inputs to the appropriate graphing functions.
+  * `detentions.py`: Handles data loading and visualization for the ICE Detentions dataset.
+  * `borderpatrol/`: Contains modules for working with Border Patrol Encounters data, including data loading, merging and graph generation.
 
 ## Linting
 
