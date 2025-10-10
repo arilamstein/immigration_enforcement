@@ -2,7 +2,7 @@ In 2025, President Trump increased immigration enforcement in the United States.
 
 The app currently includes two datasets:
 
-- **ICE Detentions**: Sourced from the Transactional Records Access Clearinghouse (TRAC), this dataset provides periodic snapshots of detainee populations held in ICE facilities. The data is scraped from TRAC’s website and cached for 15 minutes. TRAC typically updates the data a few times per month.
+- **ICE Detentions**: Sourced from the Transactional Records Access Clearinghouse (TRAC), this dataset provides periodic snapshots of detainee populations held in ICE facilities. The data is scraped from TRAC’s [website](https://tracreports.org/immigration/detentionstats/pop_agen_table.html) and cached for 15 minutes. TRAC typically updates the data a few times per month.
 
 - **Border Patrol Encounters**: Combines year-to-date data from [Customs and Border Protection (CBP)](https://www.cbp.gov/document/stats/southwest-land-border-encounters) with historic data from the [Office of Homeland Security Statistics (OHSS)](https://ohss.dhs.gov/khsm/cbp-encounters). CBP releases new data monthly via downloadable spreadsheets, which I manually download and process. The latest file used is *FY22–FY25 (FYTD) Southwest Land Border Encounters – August*.
 
