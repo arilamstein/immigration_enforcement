@@ -75,7 +75,7 @@ def get_aa_count_chart():
         title="ICE Detainees by Date* and Arresting Authority",
     )
 
-    return _add_presidential_annotations_to_graph(fig)
+    return _style_detentions_graph(fig)
 
 
 def get_aa_pct_chart():
@@ -107,7 +107,7 @@ def get_aa_pct_chart():
         title="ICE Detainees by Date* and Arresting Authority",
     )
 
-    return _add_presidential_annotations_to_graph(fig)
+    return _style_detentions_graph(fig)
 
 
 def get_col_prefix(authority):
@@ -180,7 +180,7 @@ def get_criminality_count_chart(authority):
         title=get_criminality_chart_title(authority),
     )
 
-    return _add_presidential_annotations_to_graph(fig)
+    return _style_detentions_graph(fig)
 
 
 def get_criminality_pct_chart(authority):
@@ -225,7 +225,7 @@ def get_criminality_pct_chart(authority):
         title=get_criminality_chart_title(authority),
     )
 
-    return _add_presidential_annotations_to_graph(fig)
+    return _style_detentions_graph(fig)
 
 
 def _get_max_y_value_from_figure(fig):
@@ -236,8 +236,14 @@ def _get_max_y_value_from_figure(fig):
     )
 
 
-def _add_presidential_annotations_to_graph(fig):
-    """Add a vertical line showing when presidential administrations changed."""
+def _style_detentions_graph(fig):
+    """
+    Each graph in this module should have a similar style:
+    1. A vertical line showing when presidential administrations changed.
+    2. The legend should appear on the top. This is because some of the labels from TRAC are long and so
+       the default placement (on the right, next to the lines) cuts significantly into the data portion of
+       the graph. Especially on mobile, this makes the graph hard to read.
+    """
     administrations = [
         {"President": "Joe Biden", "Start": datetime(2021, 1, 20)},
         {"President": "Donald Trump", "Start": datetime(2025, 1, 20)},
@@ -258,5 +264,16 @@ def _add_presidential_annotations_to_graph(fig):
             showarrow=False,
             yanchor="bottom",
         )
+
+    fig.update_layout(
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="left",
+            x=0
+        ),
+        margin=dict(t=100)  # Increase top margin to prevent overlap
+    )
 
     return fig
