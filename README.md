@@ -11,6 +11,7 @@ To learn more about the data sources and design choices, check out these blog po
 
 - [A Python App for Analyzing Immigration Enforcement Data](https://arilamstein.com/blog/2025/07/21/a-python-app-for-analyzing-immigration-enforcement-data/)
 - [Visualizing 25 Years of Border Patrol Data with Python](https://arilamstein.com/blog/2025/10/06/visualizing-25-years-border-patrol-data-python/)
+- [Visualizing Border Patrol Encounters Under the Second Trump Administration](https://arilamstein.com/blog/2025/10/16/visualizing-border-patrol-encounters-under-the-second-trump-administration/)
 
 If you'd like to run the app locally or modify it, please read [DEVELOPER.md](/DEVELOPER.md).
 

@@ -46,7 +46,9 @@ with border_tab:
         """
         **Border Patrol Encounters** combines year-to-date data from CBP with historic data from OHSS.
         This view helps you explore long-term trends in border enforcement activity. To learn more about this
-        dataset, click [here](https://arilamstein.com/blog/2025/10/06/visualizing-25-years-border-patrol-data-python/).
+        dataset, click [here](https://arilamstein.com/blog/2025/10/06/visualizing-25-years-border-patrol-data-python/)
+        and
+        [here](https://arilamstein.com/blog/2025/10/16/visualizing-border-patrol-encounters-under-the-second-trump-administration/).
         """
     )
     fig = be.get_graph("Border Patrol", None, None)
