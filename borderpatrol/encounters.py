@@ -22,9 +22,11 @@ import pandas as pd
 from datetime import datetime
 import plotly.express as px
 from pathlib import Path
+from plotly.graph_objs import Figure
+from typing import cast, Any, TypedDict
 
 
-def _convert_fiscal_date_to_calendar_date(fiscal_date):
+def _convert_fiscal_date_to_calendar_date(fiscal_date: datetime) -> datetime:
     """
     Convert a federal fiscal date to its corresponding calendar date.
 
@@ -39,7 +41,7 @@ def _convert_fiscal_date_to_calendar_date(fiscal_date):
         return fiscal_date
 
 
-def _get_historic_sw_border_encounters():
+def _get_historic_sw_border_encounters() -> pd.DataFrame:
     """
     Read in the "Monthly Region" sheet from the "USBP Encounters" Spreadsheet. The file comes from:
     https://ohss.dhs.gov/khsm/cbp-encounters ("CBP Encounters - USBP - November 2024")
@@ -91,7 +93,7 @@ def _get_historic_sw_border_encounters():
     return df
 
 
-def _get_ytd_sw_border_encounters():
+def _get_ytd_sw_border_encounters() -> pd.DataFrame:
     """
     Data comes from https://www.cbp.gov/document/stats/southwest-land-border-encounters.
     File "FY22 - FY25 (FYTD) Southwest Land Border Encounters - August", which was the latest at the time of writing.
@@ -135,7 +137,7 @@ def _get_ytd_sw_border_encounters():
     return df
 
 
-def _assert_monthly_date_integrity(df):
+def _assert_monthly_date_integrity(df: pd.DataFrame) -> None:
     """
     Ensure that all dates in the df are unique, and that none are missing from start to end.
     """
@@ -155,7 +157,7 @@ def _assert_monthly_date_integrity(df):
     ), "Dates are missing or misaligned"
 
 
-def get_sw_border_encounters():
+def get_sw_border_encounters() -> pd.DataFrame:
     """
     Get all available data on Southwest Border Encounters by US Border Patrol.
 
@@ -171,7 +173,7 @@ def get_sw_border_encounters():
     return df
 
 
-def get_sw_border_encounters_graph(annotate_administrations=True):
+def get_sw_border_encounters_graph(annotate_administrations: bool = True) -> Figure:
     df = get_sw_border_encounters()
 
     fig = px.line(
@@ -183,7 +185,12 @@ def get_sw_border_encounters_graph(annotate_administrations=True):
     )
 
     if annotate_administrations:
-        administrations = [
+
+        class Administration(TypedDict):
+            President: str
+            Start: datetime
+
+        administrations: list[Administration] = [
             # Include Clinton for reference, but comment out bc his administration did not start during the data period
             # {"President": "Bill Clinton", "Start": datetime(1993, 1, 20)},
             {"President": "George W. Bush", "Start": datetime(2001, 1, 20)},
@@ -200,7 +207,11 @@ def get_sw_border_encounters_graph(annotate_administrations=True):
 
         for one_administration in administrations:
             fig.add_vline(
-                x=one_administration["Start"], line_color="black", line_dash="dash"
+                x=cast(
+                    Any, one_administration["Start"]
+                ),  # cast: plotly stub expects numbers but runtime accepts datetimes
+                line_color="black",
+                line_dash="dash",
             )
             fig.add_annotation(
                 x=one_administration["Start"],
