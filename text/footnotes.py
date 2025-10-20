@@ -1,3 +1,5 @@
+from typing import Literal
+
 """
 These footnotes are taken verbatim from
 https://tracreports.org/immigration/detentionstats/pop_agen_table.html.
@@ -6,18 +8,18 @@ on the page.
 """
 
 
-def get_abbreviations_text():
+def get_abbreviations_text() -> str:
     return '"ICE" stands for "Immigration and Customs Enforcement". "CBP" stands for "Customs and Border Protection".'
 
 
-def get_date_footnote_text():
+def get_date_footnote_text() -> str:
     return (
         "*&nbsp;Dates before 11/15/2021 refer to the date ICE posted the data; "
         "dates after 11/15/2021 refer to the date the information was current as of."
     )
 
 
-def get_criminality_footnote_text():
+def get_criminality_footnote_text() -> str:
     return (
         "**&nbsp;ICE classifies an individual as a convicted criminal if they have been convicted "
         "of any criminal violation. Violations can range from serious felonies all the way down "
@@ -30,7 +32,7 @@ def get_criminality_footnote_text():
     )
 
 
-def get_date_footnote():
+def get_date_footnote() -> str:
     return f"""
         <p style='font-size: 0.85em; font-style: italic; margin-top: 10px;'>
         {get_abbreviations_text()}<br>
@@ -39,7 +41,7 @@ def get_date_footnote():
         """
 
 
-def get_criminality_footnote():
+def get_criminality_footnote() -> str:
     return f"""
         <p style='font-size: 0.85em; font-style: italic; margin-top: 10px;'>
         {get_abbreviations_text()}<br>
@@ -49,7 +51,9 @@ def get_criminality_footnote():
         """
 
 
-def get_footnote(dataset):
+def get_footnote(
+    dataset: Literal["Arresting Authority", "Criminality", "Border Patrol"],
+) -> str:
     if dataset == "Arresting Authority":
         return get_date_footnote()
     elif dataset == "Criminality":
