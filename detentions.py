@@ -236,7 +236,9 @@ def _get_max_y_value_from_figure(fig: Figure) -> float:
         y = getattr(trace, "y", None)
         if y is None:
             continue
-        seq = cast(Sequence[float], y)
+        seq = cast(
+            Sequence[float], y
+        )  # cast: plotly stubs type trace.y as Any; narrow to Sequence[float] for mypy
         values.extend(float(v) for v in seq if v is not None)
 
     return max(values) if values else 0.0
@@ -264,7 +266,9 @@ def _style_detentions_graph(fig: Figure) -> Figure:
 
     for one_administration in administrations:
         fig.add_vline(
-            x=cast(Any, one_administration["Start"]),
+            x=cast(
+                Any, one_administration["Start"]
+            ),  # cast: plotly stub expects numbers but runtime accepts datetimes
             line_color="black",
             line_dash="dash",
         )
