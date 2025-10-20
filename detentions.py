@@ -7,6 +7,8 @@ import streamlit as st
 import requests
 import pandas as pd
 import plotly.express as px
+from plotly.graph_objs import Figure
+from typing import cast, Sequence, Any, TypedDict
 from datetime import datetime
 
 colorblind_palette = colorblind_palette = [
@@ -18,7 +20,7 @@ colorblind_palette = colorblind_palette = [
 
 
 @st.cache_data(ttl="15m")
-def get_detention_data():
+def get_detention_data() -> pd.DataFrame:
     """
     Get the data which powers TRAC's "ICE Detainees" page and return it as a dataframe.
 
@@ -47,7 +49,7 @@ def get_detention_data():
     return df
 
 
-def get_aa_count_chart():
+def get_aa_count_chart() -> Figure:
     """Get a chart that shows detentions by arresting authority as a count."""
     df = get_detention_data()
 
@@ -78,7 +80,7 @@ def get_aa_count_chart():
     return _style_detentions_graph(fig)
 
 
-def get_aa_pct_chart():
+def get_aa_pct_chart() -> Figure:
     """Get a chart that shows detentions by arresting authority as a percent."""
     df = get_detention_data()
 
@@ -110,7 +112,7 @@ def get_aa_pct_chart():
     return _style_detentions_graph(fig)
 
 
-def get_col_prefix(authority):
+def get_col_prefix(authority: str) -> str:
     """
     Return the column prefix for the UI text "ICE", "CBP" and "All".
 
@@ -128,7 +130,7 @@ def get_col_prefix(authority):
         raise ValueError(f"Unknown authority {authority}")
 
 
-def get_criminality_chart_title(authority):
+def get_criminality_chart_title(authority: str) -> str:
     """
     The chart title should specify whether the graph is of all detainees,
     or just those detainees who were arrested by a particular arresting authority.
@@ -139,7 +141,7 @@ def get_criminality_chart_title(authority):
         return f"ICE Detainees (Detained by {authority}) by Date* and Criminality**"
 
 
-def get_criminality_count_chart(authority):
+def get_criminality_count_chart(authority: str) -> Figure:
     """Get a chart that shows the criminality of detainees by arresting authority as a count."""
     df = get_detention_data()
 
@@ -183,7 +185,7 @@ def get_criminality_count_chart(authority):
     return _style_detentions_graph(fig)
 
 
-def get_criminality_pct_chart(authority):
+def get_criminality_pct_chart(authority: str) -> Figure:
     """Get a chart that shows the criminality of detainees by arresting authority as a percent."""
     df = get_detention_data()
 
@@ -228,15 +230,19 @@ def get_criminality_pct_chart(authority):
     return _style_detentions_graph(fig)
 
 
-def _get_max_y_value_from_figure(fig):
-    return max(
-        max(trace.y)
-        for trace in fig.data
-        if hasattr(trace, "y") and trace.y is not None
-    )
+def _get_max_y_value_from_figure(fig: Figure) -> float:
+    values: list[float] = []
+    for trace in fig.data:
+        y = getattr(trace, "y", None)
+        if y is None:
+            continue
+        seq = cast(Sequence[float], y)
+        values.extend(float(v) for v in seq if v is not None)
+
+    return max(values) if values else 0.0
 
 
-def _style_detentions_graph(fig):
+def _style_detentions_graph(fig: Figure) -> Figure:
     """
     Each graph in this module should have a similar style:
     1. A vertical line showing when presidential administrations changed.
@@ -244,7 +250,12 @@ def _style_detentions_graph(fig):
        the default placement (on the right, next to the lines) cuts significantly into the data portion of
        the graph. Especially on mobile, this makes the graph hard to read.
     """
-    administrations = [
+
+    class Administration(TypedDict):
+        President: str
+        Start: datetime
+
+    administrations: list[Administration] = [
         {"President": "Joe Biden", "Start": datetime(2021, 1, 20)},
         {"President": "Donald Trump", "Start": datetime(2025, 1, 20)},
     ]
@@ -253,7 +264,9 @@ def _style_detentions_graph(fig):
 
     for one_administration in administrations:
         fig.add_vline(
-            x=one_administration["Start"], line_color="black", line_dash="dash"
+            x=cast(Any, one_administration["Start"]),
+            line_color="black",
+            line_dash="dash",
         )
         fig.add_annotation(
             x=one_administration["Start"],
