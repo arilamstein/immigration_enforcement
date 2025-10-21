@@ -18,7 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install black flake8 ruff
+          pip install black flake8 ruff mypy
 
       - name: Run Black
         run: black --check .
