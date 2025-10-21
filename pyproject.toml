@@ -30,3 +30,9 @@ dev = [
 python_version = "3.12"
 show_error_codes = true
 strict = true
+packages = ["immigration_enforcement"]
+exclude = "tests/"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

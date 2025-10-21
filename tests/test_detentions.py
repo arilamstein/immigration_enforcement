@@ -1,7 +1,7 @@
 """Tests for the detentions module."""
 
 import pytest
-from detentions import get_col_prefix
+from immigration_enforcement.detentions import get_col_prefix
 
 
 def test_get_col_prefix_valid_inputs():
