@@ -1,5 +1,5 @@
-import borderpatrol.encounters as encounters
-import detentions
+import immigration_enforcement.borderpatrol.encounters as encounters
+import immigration_enforcement.detentions as detentions
 from plotly.graph_objs import Figure
 
 

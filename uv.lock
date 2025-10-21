@@ -501,6 +501,7 @@ dev = [
     { name = "mypy" },
     { name = "pandas-stubs" },
     { name = "plotly-stubs" },
+    { name = "pytest" },
     { name = "ruff" },
     { name = "types-requests" },
 ]
@@ -523,6 +524,7 @@ dev = [
     { name = "mypy", specifier = ">=1.18.2" },
     { name = "pandas-stubs", specifier = ">=2.3.2.250926" },
     { name = "plotly-stubs", specifier = ">=0.0.6" },
+    { name = "pytest", specifier = ">=8.4.2" },
     { name = "ruff", specifier = ">=0.14.1" },
     { name = "types-requests", specifier = ">=2.32.4.20250913" },
 ]
