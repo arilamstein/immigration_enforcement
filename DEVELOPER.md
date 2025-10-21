@@ -48,6 +48,12 @@ To generate a code coverage report in the terminal:
 uv run pytest --cov=immigration_enforcement --cov-report=term-missing
 ```
 
+or 
+
+```bash
+make coverage
+```
+
 This gives you a high-level overview of code coverage directly in the terminal. To explore coverage in more
 detail—including which lines were missed—run:
 
@@ -59,5 +65,5 @@ open htmlcov/index.html
 or
 
 ```bash
-make coverage
+make coverage-html
 ```
