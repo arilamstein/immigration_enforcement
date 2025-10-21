@@ -34,6 +34,12 @@ uv run pytest
 
 These commands lint your code, check types, and run all existing tests.
 
+Alternatively, you can run all these commands at once by typing:
+
+```bash
+make check
+```
+
 ## Code Coverage (Optional)
 
 To generate a code coverage report in the terminal:
@@ -48,4 +54,10 @@ detail—including which lines were missed—run:
 ```bash
 uv run pytest --cov=immigration_enforcement --cov-report=html
 open htmlcov/index.html
+```
+
+or
+
+```bash
+make coverage
 ```
