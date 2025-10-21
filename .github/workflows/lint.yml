@@ -19,6 +19,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install black flake8 ruff mypy
+          pip install pandas-stubs plotly-stubs types-requests
 
       - name: Run Black
         run: black --check .
