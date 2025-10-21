@@ -1,6 +1,6 @@
 import streamlit as st
-import backend as be
-import text.footnotes as footnotes
+import immigration_enforcement.backend as be
+import immigration_enforcement.text.footnotes as footnotes
 
 st.title("How Has U.S. Immigration Enforcement Changed?")
 st.markdown(
