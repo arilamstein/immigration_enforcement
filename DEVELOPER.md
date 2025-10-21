@@ -21,11 +21,12 @@ The app is built in Python, using the Streamlit and Pandas libraries.
 
 ## Linting
 
-This repo has a workflow enabled that runs `black`, `flake8` and `ruff` on each PR. If you are making a PR to this repo,
-please run the following commands prior to making a PR:
+This repo has a workflow enabled that runs `black`, `flake8`, `ruff` and `mypy` on each PR. If you are making a PR to
+this repo, please run the following commands prior to making a PR:
 
 ```
 uv run black .
 uv run flake8 ./*.py
 uv run ruff check .
+uv run mypy .
 ```
