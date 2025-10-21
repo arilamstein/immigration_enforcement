@@ -16,19 +16,23 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
       - name: Install dependencies
         run: |
-          pip install black flake8 ruff mypy
-          pip install pandas-stubs plotly-stubs types-requests
+          uv pip install -e ".[dev]"
 
       - name: Run Black
-        run: black --check .
+        run: uv run black --check .
 
       - name: Run Flake8
-        run: flake8 .
+        run: uv run flake8 .
 
       - name: Run Ruff
-        run: ruff check .
+        run: uv run ruff check .
 
       - name: Run mypy
-        run: mypy .
+        run: uv run mypy .
