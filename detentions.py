@@ -10,7 +10,6 @@ import plotly.express as px
 from plotly.graph_objs import Figure
 from typing import cast, Sequence, Any, TypedDict
 from datetime import datetime
-from type_defs import AuthorityType
 
 colorblind_palette = colorblind_palette = [
     "#377eb8",  # blue
@@ -113,7 +112,7 @@ def get_aa_pct_chart() -> Figure:
     return _style_detentions_graph(fig)
 
 
-def get_col_prefix(authority: AuthorityType) -> str:
+def get_col_prefix(authority: str) -> str:
     """
     Return the column prefix for the UI text "ICE", "CBP" and "All".
 
@@ -131,7 +130,7 @@ def get_col_prefix(authority: AuthorityType) -> str:
         raise ValueError(f"Unknown authority {authority}")
 
 
-def get_criminality_chart_title(authority: AuthorityType) -> str:
+def get_criminality_chart_title(authority: str) -> str:
     """
     The chart title should specify whether the graph is of all detainees,
     or just those detainees who were arrested by a particular arresting authority.
@@ -142,7 +141,7 @@ def get_criminality_chart_title(authority: AuthorityType) -> str:
         return f"ICE Detainees (Detained by {authority}) by Date* and Criminality**"
 
 
-def get_criminality_count_chart(authority: AuthorityType) -> Figure:
+def get_criminality_count_chart(authority: str) -> Figure:
     """Get a chart that shows the criminality of detainees by arresting authority as a count."""
     df = get_detention_data()
 
@@ -186,7 +185,7 @@ def get_criminality_count_chart(authority: AuthorityType) -> Figure:
     return _style_detentions_graph(fig)
 
 
-def get_criminality_pct_chart(authority: AuthorityType) -> Figure:
+def get_criminality_pct_chart(authority: str) -> Figure:
     """Get a chart that shows the criminality of detainees by arresting authority as a percent."""
     df = get_detention_data()
 

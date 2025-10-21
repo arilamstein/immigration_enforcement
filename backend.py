@@ -1,13 +1,12 @@
 import borderpatrol.encounters as encounters
 import detentions
 from plotly.graph_objs import Figure
-from type_defs import AuthorityType
 
 
 def get_graph(
     dataset: str,
     display: str | None,
-    authority: AuthorityType,
+    authority: str | None,
 ) -> Figure:
     """
     Get the graph specified by the dataset, display and authority.
@@ -29,6 +28,9 @@ def get_graph(
         elif display == "Percent":
             fig = detentions.get_aa_pct_chart()
     elif dataset == "Criminality":
+        assert (
+            authority is not None
+        ), "Authority must be specified for Criminality dataset"
         if display == "Count":
             fig = detentions.get_criminality_count_chart(authority)
         elif display == "Percent":

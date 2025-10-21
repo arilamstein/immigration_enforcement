@@ -1,7 +1,6 @@
 import streamlit as st
 import backend as be
 import text.footnotes as footnotes
-from type_defs import AuthorityType
 
 st.title("How Has U.S. Immigration Enforcement Changed?")
 st.markdown(
@@ -33,11 +32,8 @@ with ice_tab:
     with col3:
         # In the original dataset the "Criminality" table has 3 tables. This lets
         # you see how the criminality of detainees varies by arresting authority.
-        authority: AuthorityType
         if dataset == "Criminality":
             authority = st.selectbox("Arresting Authority", ["All", "ICE", "CBP"])
-        else:
-            authority = None
 
     fig = be.get_graph(dataset, display, authority)
     st.plotly_chart(fig, use_container_width=True)
