@@ -32,8 +32,11 @@ with ice_tab:
     with col3:
         # In the original dataset the "Criminality" table has 3 tables. This lets
         # you see how the criminality of detainees varies by arresting authority.
+        authority: str | None
         if dataset == "Criminality":
             authority = st.selectbox("Arresting Authority", ["All", "ICE", "CBP"])
+        else:
+            authority = None
 
     fig = be.get_graph(dataset, display, authority)
     st.plotly_chart(fig, use_container_width=True)
