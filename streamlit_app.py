@@ -55,4 +55,4 @@ with border_tab:
     fig = be.get_graph("Border Patrol", None, None)
     st.plotly_chart(fig, use_container_width=True)
 with about_tab:
-    st.write(open("text/about.md").read())
+    st.write(open("immigration_enforcement/text/about.md").read())
