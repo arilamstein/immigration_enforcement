@@ -1,13 +1,12 @@
 import borderpatrol.encounters as encounters
 import detentions
-from typing import Literal, Optional
 from plotly.graph_objs import Figure
 from type_defs import AuthorityType
 
 
 def get_graph(
-    dataset: Literal["Arresting Authority", "Criminality", "Border Patrol"],
-    display: Optional[Literal["Count", "Percent"]],
+    dataset: str,
+    display: str | None,
     authority: AuthorityType,
 ) -> Figure:
     """

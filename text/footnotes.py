@@ -1,5 +1,3 @@
-from typing import Literal
-
 """
 These footnotes are taken verbatim from
 https://tracreports.org/immigration/detentionstats/pop_agen_table.html.
@@ -51,9 +49,7 @@ def get_criminality_footnote() -> str:
         """
 
 
-def get_footnote(
-    dataset: Literal["Arresting Authority", "Criminality", "Border Patrol"],
-) -> str:
+def get_footnote(dataset: str) -> str:
     if dataset == "Arresting Authority":
         return get_date_footnote()
     elif dataset == "Criminality":

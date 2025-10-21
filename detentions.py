@@ -10,7 +10,7 @@ import plotly.express as px
 from plotly.graph_objs import Figure
 from typing import cast, Sequence, Any, TypedDict
 from datetime import datetime
-from types import AuthorityType
+from type_defs import AuthorityType
 
 colorblind_palette = colorblind_palette = [
     "#377eb8",  # blue
