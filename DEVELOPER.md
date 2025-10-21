@@ -19,28 +19,24 @@ The app is built in Python, using the Streamlit and Pandas libraries.
   * `detentions.py`: Handles data loading and visualization for the ICE Detentions dataset.
   * `borderpatrol/`: Contains modules for working with Border Patrol Encounters data, including data loading, merging and graph generation.
 
-## Linting
+## CI Checks
 
-This repo has a workflow enabled that runs `black`, `flake8`, `ruff` and `mypy` on each PR. If you are making a PR to
-this repo, please run the following commands from the root directory prior to making a PR:
+This repo has a GitHub Actions workflow that runs `black`, `flake8`, `ruff`, `mypy`, and `pytest` on each pull request. To ensure
+your code passes CI, run the following commands from the root directory before submitting a PR:
 
 ```bash
 uv run black .
 uv run flake8 .
 uv run ruff check .
 uv run mypy .
-```
-
-## Testing
-
-I have just started adding automated tests to this repo using `pytest`. To run all existing tests, type the following
-from the root directory:
-
-```bash
 uv run pytest
 ```
 
-To generate a code coverage report, type:
+These commands lint your code, check types, and run all existing tests.
+
+## Code Coverage (Optional)
+
+To generate a code coverage report in the terminal:
 
 ```bash
 uv run pytest --cov=immigration_enforcement --cov-report=term-missing
@@ -51,10 +47,5 @@ detail—including which lines were missed—run:
 
 ```bash
 uv run pytest --cov=immigration_enforcement --cov-report=html
-```
-
-Then open the interactive report in your browser:
-
-```bash
 open htmlcov/index.html
 ```
