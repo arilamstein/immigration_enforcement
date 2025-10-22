@@ -89,3 +89,18 @@ def test_get_sw_border_encounters_graph():
 
     assert isinstance(fig, Figure)
     assert len(fig.data) == 1  # Simple time series of encounters
+
+
+def test_assert_monthly_date_integrity_passes_on_valid_data():
+    dates = pd.date_range("2020-10-01", "2021-09-01", freq="MS")
+    df = pd.DataFrame({"date": dates, "encounters": 100})
+    encounters._assert_monthly_date_integrity(df)  # Should not raise
+
+
+def test_assert_monthly_date_integrity_fails_on_missing_month():
+    dates = pd.date_range("2020-10-01", "2021-09-01", freq="MS").delete(
+        1
+    )  # Remove second month
+    df = pd.DataFrame({"date": dates, "encounters": 100})
+    with pytest.raises(AssertionError):
+        encounters._assert_monthly_date_integrity(df)
