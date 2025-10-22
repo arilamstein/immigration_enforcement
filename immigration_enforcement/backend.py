@@ -22,15 +22,16 @@ def get_graph(
     -------
     - A plotly figure
     """
+    fig = None
     if dataset == "Arresting Authority":
         if display == "Count":
             fig = detentions.get_aa_count_chart()
         elif display == "Percent":
             fig = detentions.get_aa_pct_chart()
     elif dataset == "Criminality":
-        assert (
-            authority is not None
-        ), "Authority must be specified for Criminality dataset"
+        if authority is None:
+            raise ValueError("Authority must be specified for Criminality dataset")
+
         if display == "Count":
             fig = detentions.get_criminality_count_chart(authority)
         elif display == "Percent":
