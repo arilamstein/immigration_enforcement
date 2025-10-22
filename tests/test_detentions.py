@@ -6,6 +6,7 @@ from unittest.mock import patch
 import pandas as pd
 import datetime
 from plotly.graph_objs import Figure
+import plotly.express as px
 
 
 def test_get_detention_data():
@@ -79,7 +80,7 @@ def mock_detention_df():
     )
 
 
-def test_get_aa_count_chart_returns_expected_figure(mock_detention_df):
+def test_get_aa_count_chart(mock_detention_df):
     with patch("immigration_enforcement.detentions.get_detention_data") as mock_get:
         mock_get.return_value = mock_detention_df
 
@@ -87,6 +88,16 @@ def test_get_aa_count_chart_returns_expected_figure(mock_detention_df):
 
     assert isinstance(fig, Figure)
     assert len(fig.data) == 3  # ICE, CBP and Total
+
+
+def test_get_aa_pct_chart(mock_detention_df):
+    with patch("immigration_enforcement.detentions.get_detention_data") as mock_get:
+        mock_get.return_value = mock_detention_df
+
+        fig = detentions.get_aa_pct_chart()
+
+    assert isinstance(fig, Figure)
+    assert len(fig.data) == 2  # ICE and CBP
 
 
 def test_get_col_prefix_valid_inputs():
@@ -101,3 +112,50 @@ def test_get_col_prefix_invalid_input():
     with pytest.raises(ValueError) as e:
         detentions.get_col_prefix("FBI")
     assert "Unknown authority FBI" in str(e.value)
+
+
+def test_get_criminality_chart_title():
+    title = detentions.get_criminality_chart_title("All")
+    assert title == "ICE Detainees by Date* and Criminality**"
+
+    title = detentions.get_criminality_chart_title("CBP")
+    assert title == "ICE Detainees (Detained by CBP) by Date* and Criminality**"
+
+
+def test_get_criminality_count_chart(mock_detention_df):
+    with patch("immigration_enforcement.detentions.get_detention_data") as mock_get:
+        mock_get.return_value = mock_detention_df
+
+        fig = detentions.get_criminality_count_chart("All")
+
+    assert isinstance(fig, Figure)
+    # Convicted Criminal, Pending Criminal Charges, Other Immigration Violator, Total
+    assert len(fig.data) == 4
+
+
+def test_get_criminality_pct_chart(mock_detention_df):
+    with patch("immigration_enforcement.detentions.get_detention_data") as mock_get:
+        mock_get.return_value = mock_detention_df
+
+        fig = detentions.get_criminality_pct_chart("All")
+
+    assert isinstance(fig, Figure)
+    # Convicted Criminal, Pending Criminal Charges, Other Immigration Violator
+    assert len(fig.data) == 3
+
+
+def test_get_max_y_value_from_figure(mock_detention_df):
+    # Melt the mock data to match how it's used in charting
+    df_melted = mock_detention_df.melt(
+        id_vars="date",
+        value_vars=["ice_all", "cbp_all", "total_all"],
+        var_name="authority",
+        value_name="count",
+    )
+
+    fig = px.line(df_melted, x="date", y="count", color="authority")
+
+    expected_max = mock_detention_df[["ice_all", "cbp_all", "total_all"]].max().max()
+    actual_max = detentions._get_max_y_value_from_figure(fig)
+
+    assert actual_max == expected_max
