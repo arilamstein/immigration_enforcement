@@ -233,12 +233,7 @@ def get_criminality_pct_chart(authority: str) -> Figure:
 def _get_max_y_value_from_figure(fig: Figure) -> float:
     values: list[float] = []
     for trace in fig.data:
-        y = getattr(trace, "y", None)
-        if y is None:
-            continue
-        seq = cast(
-            Sequence[float], y
-        )  # cast: plotly stubs type trace.y as Any; narrow to Sequence[float] for mypy
+        seq = cast(Sequence[float], trace.y)  # type: ignore[attr-defined]
         values.extend(float(v) for v in seq if v is not None)
 
     return max(values) if values else 0.0
