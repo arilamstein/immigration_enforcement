@@ -1,4 +1,4 @@
-name: Lint Code
+name: CI
 
 on:
   push:
@@ -6,7 +6,6 @@ on:
 
 jobs:
   lint:
-    name: Test & Lint
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
