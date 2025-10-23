@@ -1,5 +1,5 @@
 # immigration_enforcement
-[![Test & Lint](https://github.com/arilamstein/immigration_enforcement/actions/workflows/lint.yml/badge.svg)](https://github.com/arilamstein/immigration_enforcement/actions/workflows/lint.yml)
+[![CI](https://github.com/arilamstein/immigration_enforcement/actions/workflows/lint.yml/badge.svg)](https://github.com/arilamstein/immigration_enforcement/actions/workflows/lint.yml)
 [![codecov](https://codecov.io/gh/arilamstein/immigration_enforcement/graph/badge.svg?token=2RYIEPNAR2)](https://codecov.io/gh/arilamstein/immigration_enforcement)
 
 This [app](https://immigration-enforcement.streamlit.app/) visualizes key datasets related to immigration enforcement in the United States. It was created to help people understand how enforcement levels have changed over time—especially in response to recent policy shifts.
