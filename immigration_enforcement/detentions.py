@@ -112,7 +112,7 @@ def get_aa_pct_chart() -> Figure:
     return _style_detentions_graph(fig)
 
 
-def get_col_prefix(authority: str) -> str:
+def _get_col_prefix(authority: str) -> str:
     """
     Return the column prefix for the UI text "ICE", "CBP" and "All".
 
@@ -130,7 +130,7 @@ def get_col_prefix(authority: str) -> str:
         raise ValueError(f"Unknown authority {authority}")
 
 
-def get_criminality_chart_title(authority: str) -> str:
+def _get_criminality_chart_title(authority: str) -> str:
     """
     The chart title should specify whether the graph is of all detainees,
     or just those detainees who were arrested by a particular arresting authority.
@@ -146,7 +146,7 @@ def get_criminality_count_chart(authority: str) -> Figure:
     df = get_detention_data()
 
     # Converts df from wide to long
-    prefix = get_col_prefix(authority)
+    prefix = _get_col_prefix(authority)
     df = df.rename(
         columns={
             f"{prefix}_all": "Total",
@@ -179,7 +179,7 @@ def get_criminality_count_chart(authority: str) -> Figure:
     fig.update_layout(
         xaxis_title="Date",
         yaxis_title="Detainees",
-        title=get_criminality_chart_title(authority),
+        title=_get_criminality_chart_title(authority),
     )
 
     return _style_detentions_graph(fig)
@@ -189,7 +189,7 @@ def get_criminality_pct_chart(authority: str) -> Figure:
     """Get a chart that shows the criminality of detainees by arresting authority as a percent."""
     df = get_detention_data()
 
-    prefix = get_col_prefix(authority)
+    prefix = _get_col_prefix(authority)
     all_col = f"{prefix}_all"
     conv_col = f"{prefix}_conv"
     pend_col = f"{prefix}_pend"
@@ -224,7 +224,7 @@ def get_criminality_pct_chart(authority: str) -> Figure:
     fig.update_layout(
         xaxis_title="Date",
         yaxis_title="Percent",
-        title=get_criminality_chart_title(authority),
+        title=_get_criminality_chart_title(authority),
     )
 
     return _style_detentions_graph(fig)

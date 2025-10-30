@@ -102,23 +102,23 @@ def test_get_aa_pct_chart(mock_detention_df):
 
 def test_get_col_prefix_valid_inputs():
     """Test get_col_prefix with valid authority values."""
-    assert detentions.get_col_prefix("All") == "total"
-    assert detentions.get_col_prefix("ICE") == "ice"
-    assert detentions.get_col_prefix("CBP") == "cbp"
+    assert detentions._get_col_prefix("All") == "total"
+    assert detentions._get_col_prefix("ICE") == "ice"
+    assert detentions._get_col_prefix("CBP") == "cbp"
 
 
 def test_get_col_prefix_invalid_input():
     """Test get_col_prefix raises ValueError for invalid input."""
     with pytest.raises(ValueError) as e:
-        detentions.get_col_prefix("FBI")
+        detentions._get_col_prefix("FBI")
     assert "Unknown authority FBI" in str(e.value)
 
 
 def test_get_criminality_chart_title():
-    title = detentions.get_criminality_chart_title("All")
+    title = detentions._get_criminality_chart_title("All")
     assert title == "ICE Detainees by Date* and Criminality**"
 
-    title = detentions.get_criminality_chart_title("CBP")
+    title = detentions._get_criminality_chart_title("CBP")
     assert title == "ICE Detainees (Detained by CBP) by Date* and Criminality**"
 
 
