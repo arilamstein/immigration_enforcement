@@ -573,6 +573,7 @@ dev = [
     { name = "black", extra = ["jupyter"] },
     { name = "flake8" },
     { name = "mypy" },
+    { name = "nbval" },
     { name = "pandas-stubs" },
     { name = "plotly-stubs" },
     { name = "pytest" },
@@ -597,6 +598,7 @@ dev = [
     { name = "black", extras = ["jupyter"], specifier = ">=25.9.0" },
     { name = "flake8", specifier = ">=7.3.0" },
     { name = "mypy", specifier = ">=1.18.2" },
+    { name = "nbval", specifier = ">=0.11.0" },
     { name = "pandas-stubs", specifier = ">=2.3.2.250926" },
     { name = "plotly-stubs", specifier = ">=0.0.6" },
     { name = "pytest", specifier = ">=8.4.2" },
@@ -1176,6 +1178,22 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/6d/fd/91545e604bc3dad7dca9ed03284086039b294c6b3d75c0d2fa45f9e9caf3/nbformat-5.10.4.tar.gz", hash = "sha256:322168b14f937a5d11362988ecac2a4952d3d8e3a2cbeb2319584631226d5b3a", size = 142749, upload-time = "2024-04-04T11:20:37.371Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/a9/82/0340caa499416c78e5d8f5f05947ae4bc3cba53c9f038ab6e9ed964e22f1/nbformat-5.10.4-py3-none-any.whl", hash = "sha256:3b48d6c8fbca4b299bf3982ea7db1af21580e4fec269ad087b9e81588891200b", size = 78454, upload-time = "2024-04-04T11:20:34.895Z" },
+]
+
+[[package]]
+name = "nbval"
+version = "0.11.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "coverage" },
+    { name = "ipykernel" },
+    { name = "jupyter-client" },
+    { name = "nbformat" },
+    { name = "pytest" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/28/be/22bd64d09e0cb53258f83b6fc455f05f18a78e3e5c109ccb6af42f1f49a2/nbval-0.11.0.tar.gz", hash = "sha256:77c95797607b0a968babd2597ee3494102d25c3ad37435debbdac0e46e379094", size = 62718, upload-time = "2024-03-04T14:36:58.256Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/2c/5c/eb1e3ce54c4e94c7734b3831756c63f21badb3de91a98d77b9e23c0ca76a/nbval-0.11.0-py2.py3-none-any.whl", hash = "sha256:307aecc866c9a1e8a13bb5bbb008a702bacfda2394dff6fe504a3108a58042a0", size = 24013, upload-time = "2024-03-04T14:36:57.126Z" },
 ]
 
 [[package]]
