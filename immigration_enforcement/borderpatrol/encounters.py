@@ -152,9 +152,9 @@ def _assert_monthly_date_integrity(df: pd.DataFrame) -> None:
     actual_dates = pd.Series(df["date"].unique()).sort_values()
 
     assert len(actual_dates) == len(expected_dates), "Date count mismatch or duplicates"
-    assert actual_dates.equals(
-        pd.Series(expected_dates)
-    ), "Dates are missing or misaligned"
+    assert actual_dates.equals(pd.Series(expected_dates)), (
+        "Dates are missing or misaligned"
+    )
 
 
 def get_sw_border_encounters() -> pd.DataFrame:

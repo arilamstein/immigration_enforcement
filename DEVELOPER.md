@@ -21,12 +21,11 @@ The app is built in Python, using the Streamlit and Pandas libraries.
 
 ## CI Checks
 
-This repo has a GitHub Actions workflow that runs `black`, `flake8`, `ruff`, `mypy`, and `pytest` on each pull request. To ensure
+This repo has a GitHub Actions workflow that runs `ruff` (both as a formatter and a linter), `mypy`, and `pytest` on each pull request. To ensure
 your code passes CI, run the following commands from the root directory before submitting a PR:
 
 ```bash
-uv run black .
-uv run flake8 .
+uv run ruff format .
 uv run ruff check .
 uv run mypy .
 uv run pytest

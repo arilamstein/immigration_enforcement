@@ -1,8 +1,7 @@
 .PHONY: check coverage coverage-html help
 
 check:
-	uv run black .
-	uv run flake8 .
+	uv run ruff format .
 	uv run ruff check .
 	uv run mypy .
 	uv run pytest
