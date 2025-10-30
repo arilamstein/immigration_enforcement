@@ -5,7 +5,7 @@ check:
 	uv run flake8 .
 	uv run ruff check .
 	uv run mypy .
-	uv run pytest
+	uv run pytest tests notebooks/ --nbval-lax
 
 coverage:
 	uv run pytest --cov=immigration_enforcement --cov-report=term-missing

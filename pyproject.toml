@@ -38,3 +38,6 @@ exclude = "tests/"
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["."]
+markers = [
+    "nbval: mark test to be run with the nbval plugin",
+]
