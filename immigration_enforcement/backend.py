@@ -25,17 +25,21 @@ def get_graph(
     fig = None
     if dataset == "Arresting Authority":
         if display == "Count":
-            fig = detentions.get_aa_count_chart()
+            fig = detentions.get_aa_count_chart(use_cache=True)
         elif display == "Percent":
-            fig = detentions.get_aa_pct_chart()
+            fig = detentions.get_aa_pct_chart(use_cache=True)
     elif dataset == "Criminality":
         if authority is None:
             raise ValueError("Authority must be specified for Criminality dataset")
 
         if display == "Count":
-            fig = detentions.get_criminality_count_chart(authority)
+            fig = detentions.get_criminality_count_chart(
+                authority=authority, use_cache=True
+            )
         elif display == "Percent":
-            fig = detentions.get_criminality_pct_chart(authority)
+            fig = detentions.get_criminality_pct_chart(
+                authority=authority, use_cache=True
+            )
     elif dataset == "Border Patrol":
         fig = encounters.get_sw_border_encounters_graph()
 

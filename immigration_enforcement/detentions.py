@@ -19,13 +19,9 @@ colorblind_palette = colorblind_palette = [
 ]
 
 
-@st.cache_data(ttl="15m")
 def get_detention_data() -> pd.DataFrame:
     """
     Get the data which powers TRAC's "ICE Detainees" page and return it as a dataframe.
-
-    This function caches the data for 15 minutes. They seem to update the site just a few times a month, so this should
-    be fine.
 
     URLS of interest:
     1. TRAC Reports homepage: https://tracreports.org/
@@ -49,9 +45,35 @@ def get_detention_data() -> pd.DataFrame:
     return df
 
 
-def get_aa_count_chart() -> Figure:
-    """Get a chart that shows detentions by arresting authority as a count."""
-    df = get_detention_data()
+def _get_cached_detention_data() -> pd.DataFrame:
+    """
+    Cached version of get_detention_data(), intended for use inside the Streamlit app.
+    Not recommended for use in notebooks due to runtime warnings.
+    """
+
+    # Streamlit's @cache_data decorator triggers runtime setup at import time,
+    # which causes distracting warnings in notebooks — even if the cached function is never called.
+    # To avoid this, we define the decorated function inside _get_cached_detention_data(),
+    # so the decorator is only evaluated when explicitly invoked from the app.
+    # This keeps the module clean and warning-free for notebook users,
+    # while still enabling caching in the Streamlit context.
+
+    @st.cache_data(ttl="15m")
+    def _inner() -> pd.DataFrame:
+        return get_detention_data()
+
+    return _inner()
+
+
+def get_aa_count_chart(use_cache: bool = False) -> Figure:
+    """
+    Get a chart that shows detentions by arresting authority as a count.
+
+    Parameters:
+    - use_cache: If True, uses Streamlit caching (only relevant in app context).
+                 Defaults to False for notebook use.
+    """
+    df = _get_cached_detention_data() if use_cache else get_detention_data()
 
     df = df.rename(columns={"ice_all": "ICE", "cbp_all": "CBP", "total_all": "Total"})
 
@@ -80,9 +102,15 @@ def get_aa_count_chart() -> Figure:
     return _style_detentions_graph(fig)
 
 
-def get_aa_pct_chart() -> Figure:
-    """Get a chart that shows detentions by arresting authority as a percent."""
-    df = get_detention_data()
+def get_aa_pct_chart(use_cache: bool = False) -> Figure:
+    """
+    Get a chart that shows detentions by arresting authority as a percent.
+
+    Parameters:
+    - use_cache: If True, uses Streamlit caching (only relevant in app context).
+                 Defaults to False for notebook use.
+    """
+    df = _get_cached_detention_data() if use_cache else get_detention_data()
 
     df["ICE"] = (df.ice_all / df.total_all * 100).round()  # Rounding is in the original
     df["CBP"] = (df.cbp_all / df.total_all * 100).round()
@@ -141,9 +169,15 @@ def _get_criminality_chart_title(authority: str) -> str:
         return f"ICE Detainees (Detained by {authority}) by Date* and Criminality**"
 
 
-def get_criminality_count_chart(authority: str) -> Figure:
-    """Get a chart that shows the criminality of detainees by arresting authority as a count."""
-    df = get_detention_data()
+def get_criminality_count_chart(authority: str, use_cache: bool = False) -> Figure:
+    """
+    Get a chart that shows the criminality of detainees by arresting authority as a count.
+
+    Parameters:
+    - use_cache: If True, uses Streamlit caching (only relevant in app context).
+                 Defaults to False for notebook use.
+    """
+    df = _get_cached_detention_data() if use_cache else get_detention_data()
 
     # Converts df from wide to long
     prefix = _get_col_prefix(authority)
@@ -185,9 +219,15 @@ def get_criminality_count_chart(authority: str) -> Figure:
     return _style_detentions_graph(fig)
 
 
-def get_criminality_pct_chart(authority: str) -> Figure:
-    """Get a chart that shows the criminality of detainees by arresting authority as a percent."""
-    df = get_detention_data()
+def get_criminality_pct_chart(authority: str, use_cache: bool = False) -> Figure:
+    """
+    Get a chart that shows the criminality of detainees by arresting authority as a percent.
+
+    Parameters:
+    - use_cache: If True, uses Streamlit caching (only relevant in app context).
+                 Defaults to False for notebook use.
+    """
+    df = _get_cached_detention_data() if use_cache else get_detention_data()
 
     prefix = _get_col_prefix(authority)
     all_col = f"{prefix}_all"
