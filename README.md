@@ -15,6 +15,19 @@ To learn more about the data sources and design choices, check out these blog po
 - [Visualizing 25 Years of Border Patrol Data with Python](https://arilamstein.com/blog/2025/10/06/visualizing-25-years-border-patrol-data-python/)
 - [Visualizing Border Patrol Encounters Under the Second Trump Administration](https://arilamstein.com/blog/2025/10/16/visualizing-border-patrol-encounters-under-the-second-trump-administration/)
 
+## Build Your Own Analysis
+
+This project is designed with modularity in mind. Each dataset—ICE Detentions and Border Patrol Encounters—is handled by its own Python module:
+
+- `detentions.py`: Loads and visualizes ICE Detentions data
+- `borderpatrol/`: Contains the `encounters.py` module and related data for CBP encouner analysis
+
+You can use these modules independently in your own notebooks or scripts. The [/notebooks](/notebooks) directory provides examples of how to load, explore, and visualize each dataset without relying on the full Streamlit app.
+
+This structure supports custom analysis, teaching, and experimentation—whether you're a journalist, researcher, or civic technologist.
+
+## Running the App Locally
+
 If you'd like to run the app locally or modify it, please read [DEVELOPER.md](/DEVELOPER.md).
 
-The code is open source. If you have questions, feedback, or want to collaborate on similar projects, feel free to contact me via my [website](https://arilamstein.com).
+The code is open source. If you have questions, feedback, or want to collaborate, feel free to contact me via my [website](https://arilamstein.com).
